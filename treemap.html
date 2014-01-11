@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Treemap</title>
+    <style>
+    #chart {
+      width: 960px;
+      height: 500px;
+      background: #4682b4;
+    }
+
+    text {
+      pointer-events: none;
+    }
+
+    .grandparent text {
+      font-weight: bold;
+    }
+
+    rect {
+      fill: none;
+      stroke: #fff;
+    }
+
+    rect.parent,
+    .grandparent rect {
+      stroke-width: 2px;
+    }
+
+    .grandparent rect {
+      fill: white;
+    }
+
+    .grandparent:hover rect {
+      fill: #6e97be;
+    }
+
+    .children rect.parent,
+    .grandparent rect {
+      cursor: pointer;
+    }
+
+    .children rect.parent {
+      fill: #bbb;
+      fill-opacity: .5;
+    }
+
+    .children:hover rect.child {
+      fill: #6e97be;
+    }
+    </style>
+  </head>
+
+  <body>
+    <p id="chart">
+    <p>Based on <a href="http://bost.ocks.org/mike/treemap/">Zoomable Treemaps</a> by Mike Bostock.</p>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="treemap.js"></script>
+  </body>
+
+</html>
+
+

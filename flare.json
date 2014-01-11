@@ -1,0 +1,5000 @@
+{
+  "name": "flare",
+  "children": [
+  {
+    "name": "International Assistance Programs", 
+    "children": [
+      {
+        "name": "Peace Corps", 
+        "children": [
+          {
+            "value": 379000, 
+            "name": "Peace Corps", 
+            "2013": 377000
+          }
+        ]
+      }, 
+      {
+        "name": "Military Sales Program", 
+        "children": [
+          {
+            "value": 28000000, 
+            "name": "Foreign Military Sales Trust Fund", 
+            "2013": 33880000
+          }
+        ]
+      }, 
+      {
+        "name": "African Development Foundation", 
+        "children": [
+          {
+            "value": 24000, 
+            "name": "African Development Foundation", 
+            "2013": 30000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Gifts and Donations, African Development Foundation", 
+            "2013": 2000
+          }
+        ]
+      }, 
+      {
+        "name": "Multilateral Assistance", 
+        "children": [
+          {
+            "value": 216000, 
+            "name": "Clean Technology Fund", 
+            "2013": 186000
+          }, 
+          {
+            "value": 30000, 
+            "name": "Contributions to the International Fund for Agricultural Development", 
+            "2013": 30000
+          }, 
+          {
+            "value": 336000, 
+            "name": "Contribution to the International Bank for Reconstruction and Development", 
+            "2013": 208000
+          }, 
+          {
+            "value": 222000, 
+            "name": "Contribution to the Asian Development Bank", 
+            "2013": 208000
+          }, 
+          {
+            "value": 25000, 
+            "name": "International Affairs Technical Assistance Program", 
+            "2013": 27000
+          }, 
+          {
+            "value": 68000, 
+            "name": "Strategic Climate Fund", 
+            "2013": 50000
+          }, 
+          {
+            "value": 257000, 
+            "name": "Contribution to the African Development Bank", 
+            "2013": 214000
+          }, 
+          {
+            "value": 102000, 
+            "name": "Contribution to the Inter-American Development Bank", 
+            "2013": 80000
+          }, 
+          {
+            "value": 321000, 
+            "name": "International Organizations and Programs", 
+            "2013": 352000
+          }, 
+          {
+            "value": 135000, 
+            "name": "Global Food Security Fund", 
+            "2013": 136000
+          }, 
+          {
+            "value": 6000, 
+            "name": "Contribution to Enterprise for the Americas Multilateral Investment Fund", 
+            "2013": 25000
+          }, 
+          {
+            "value": 1504000, 
+            "name": "Contribution to the International Development Association", 
+            "2013": 1501000
+          }
+        ]
+      }, 
+      {
+        "name": "International Security Assistance", 
+        "children": [
+          {
+            "value": 5957000, 
+            "name": "Foreign Military Financing Program", 
+            "2013": 6344000
+          }, 
+          {
+            "value": 106000, 
+            "name": "International Military Education and Training", 
+            "2013": 106000
+          }, 
+          {
+            "value": 347000, 
+            "name": "Peacekeeping Operations", 
+            "2013": 386000
+          }, 
+          {
+            "value": 5458000, 
+            "name": "Economic Support Fund", 
+            "2013": 5674000
+          }, 
+          {
+            "value": 616000, 
+            "name": "Nonproliferation, Antiterrorism, Demining, and Related Programs", 
+            "2013": 715000
+          }
+        ]
+      }, 
+      {
+        "name": "Agency for International Development", 
+        "children": [
+          {
+            "value": 48000, 
+            "name": "Development Credit Authority Program Account", 
+            "2013": 8000
+          }, 
+          {
+            "value": 54000, 
+            "name": "Operating Expenses, Office of Inspector General", 
+            "2013": 51000
+          }, 
+          {
+            "value": 2045000, 
+            "name": "International Disaster Assistance", 
+            "2013": 980000
+          }, 
+          {
+            "value": 1399000, 
+            "name": "Operating Expenses of the Agency for International Development", 
+            "2013": 1354000
+          }, 
+          {
+            "value": 50000, 
+            "name": "Miscellaneous Trust Funds, AID", 
+            "2013": 50000
+          }, 
+          {
+            "value": 118000, 
+            "name": "Capital Investment Fund of the United States Agency for International Development.", 
+            "2013": 130000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Foreign Service National Separation Liability Trust Fund", 
+            "2013": 3000
+          }, 
+          {
+            "value": 2798000, 
+            "name": "Development Assistance Program", 
+            "2013": 2535000
+          }, 
+          {
+            "value": 58000, 
+            "name": "Transition Initiatives", 
+            "2013": 58000
+          }
+        ]
+      }, 
+      {
+        "name": "Inter-American Foundation", 
+        "children": [
+          {
+            "value": 18000, 
+            "name": "Inter-American Foundation", 
+            "2013": 23000
+          }
+        ]
+      }, 
+      {
+        "name": "Trade and Development Agency", 
+        "children": [
+          {
+            "value": 63000, 
+            "name": "Trade and Development Agency", 
+            "2013": 50000
+          }
+        ]
+      }, 
+      {
+        "name": "Millennium Challenge Corporation", 
+        "children": [
+          {
+            "value": 898000, 
+            "name": "Millennium Challenge Corporation", 
+            "2013": 904000
+          }
+        ]
+      }, 
+      {
+        "name": "Overseas Private Investment Corporation", 
+        "children": [
+          {
+            "value": 74000, 
+            "name": "Overseas Private Investment Corporation Program Account", 
+            "2013": 58000
+          }, 
+          {
+            "value": 61000, 
+            "name": "Overseas Private Investment Corporation Noncredit Account", 
+            "2013": 104000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Veterans Affairs", 
+    "children": [
+      {
+        "name": "Benefits Programs", 
+        "children": [
+          {
+            "value": 184000, 
+            "name": "Burial benefits", 
+            "2013": 204000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Native American Veteran Housing Loan Program Account", 
+            "2013": 1000
+          }, 
+          {
+            "value": 13148000, 
+            "name": "Readjustment Benefits", 
+            "2013": 11199000
+          }, 
+          {
+            "value": 5584000, 
+            "name": "Pensions benefits", 
+            "2013": 4885000
+          }, 
+          {
+            "value": 65440000, 
+            "name": "Compensation", 
+            "2013": 56336000
+          }, 
+          {
+            "value": 928000, 
+            "name": "National Service Life Insurance Fund", 
+            "2013": 981000
+          }, 
+          {
+            "value": 77000, 
+            "name": "Veterans Insurance and Indemnities", 
+            "2013": 105000
+          }, 
+          {
+            "value": 158000, 
+            "name": "Veterans Housing Benefit Program Fund", 
+            "2013": 156000
+          }, 
+          {
+            "value": 2000, 
+            "name": "United States Government Life Insurance Fund", 
+            "2013": 2000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Administration", 
+        "children": [
+          {
+            "value": 3683000, 
+            "name": "Information Technology Systems", 
+            "2013": 3131000
+          }, 
+          {
+            "value": 715000, 
+            "name": "Construction, Minor Projects", 
+            "2013": 485000
+          }, 
+          {
+            "value": 250000, 
+            "name": "National Cemetery Administration", 
+            "2013": 255000
+          }, 
+          {
+            "value": 83000, 
+            "name": "Grants for Construction of State Extended Care Facilities", 
+            "2013": 86000
+          }, 
+          {
+            "value": 342000, 
+            "name": "Construction, Major Projects", 
+            "2013": 801000
+          }, 
+          {
+            "value": 2455000, 
+            "name": "General Operating Expenses, Veterans Benefits Administration", 
+            "2013": 2164000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Grants for Construction of Veterans Cemeteries", 
+            "2013": 46000
+          }, 
+          {
+            "value": 403000, 
+            "name": "General Administration", 
+            "2013": 419000
+          }, 
+          {
+            "value": 116000, 
+            "name": "Office of Inspector General", 
+            "2013": 113000
+          }
+        ]
+      }, 
+      {
+        "name": "Veterans Health Administration", 
+        "children": [
+          {
+            "value": 586000, 
+            "name": "Medical and Prosthetic Research", 
+            "2013": 585000
+          }, 
+          {
+            "value": 6033000, 
+            "name": "Medical Support and Compliance", 
+            "2013": 5847000
+          }, 
+          {
+            "value": 28000, 
+            "name": "General Post Fund, National Homes", 
+            "2013": 27000
+          }, 
+          {
+            "value": 30000, 
+            "name": "DOD-VA Health Care Sharing Incentive Fund", 
+            "2013": 30000
+          }, 
+          {
+            "value": 4872000, 
+            "name": "Medical Facilities", 
+            "2013": 5699000
+          }, 
+          {
+            "value": 46764000, 
+            "name": "Medical Services", 
+            "2013": 45610000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Commerce", 
+    "children": [
+      {
+        "name": "National Telecommunications and Information Administration", 
+        "children": [
+          {
+            "value": 52000, 
+            "name": "Salaries and Expenses", 
+            "2013": 46000
+          }, 
+          {
+            "value": 10000, 
+            "name": "State and Local Implementation Fund", 
+            "2013": 125000
+          }, 
+          {
+            "value": 1908000, 
+            "name": "Public Safety Trust Fund", 
+            "2013": 90000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Management", 
+        "children": [
+          {
+            "value": 60000, 
+            "name": "Salaries and Expenses", 
+            "2013": 57000
+          }, 
+          {
+            "value": 32000, 
+            "name": "Office of the Inspector General", 
+            "2013": 30000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Gifts and Bequests", 
+            "2013": 7000
+          }, 
+          {
+            "value": 15000, 
+            "name": "HCHB Renovation and Modernization", 
+            "2013": 5000
+          }
+        ]
+      }, 
+      {
+        "name": "Economics and Statistics Administration", 
+        "children": [
+          {
+            "value": 104000, 
+            "name": "Salaries and Expenses", 
+            "2013": 97000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Industry and Security", 
+        "children": [
+          {
+            "value": 32000, 
+            "name": "Operations and Administration", 
+            "2013": 35000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of the Census", 
+        "children": [
+          {
+            "value": 727000, 
+            "name": "Periodic Censuses and Programs", 
+            "2013": 655000
+          }, 
+          {
+            "value": 30000, 
+            "name": "Salaries and Expenses", 
+            "2013": 30000
+          }
+        ]
+      }, 
+      {
+        "name": "International Trade Administration", 
+        "children": [
+          {
+            "value": 520000, 
+            "name": "Operations and Administration", 
+            "2013": 458000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Grants to Manufacturers of Worsted Wool Fabrics", 
+            "2013": 5000
+          }
+        ]
+      }, 
+      {
+        "name": "Minority Business Development Agency", 
+        "children": [
+          {
+            "value": 29000, 
+            "name": "Minority Business Development", 
+            "2013": 31000
+          }
+        ]
+      }, 
+      {
+        "name": "National Oceanic and Atmospheric Administration", 
+        "children": [
+          {
+            "value": 10000, 
+            "name": "Environmental Improvement and Restoration Fund", 
+            "2013": 10000
+          }, 
+          {
+            "value": 132000, 
+            "name": "Promote and Develop Fishery Products and Research Pertaining to American Fisheries", 
+            "2013": 132000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Damage Assessment and Restoration Revolving Fund", 
+            "2013": 8000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Fisheries Enforcement Asset Forfeiture Fund", 
+            "2013": 5000
+          }, 
+          {
+            "value": 28000, 
+            "name": "Operations, Research, and Facilities", 
+            "2013": 28000
+          }, 
+          {
+            "value": 50000, 
+            "name": "Pacific Coastal Salmon Recovery", 
+            "2013": 65000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Limited Access System Administration Fund", 
+            "2013": 10000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Medicare-eligible Retiree Health Fund Contribution, NOAA", 
+            "2013": 2000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Sanctuaries Enforcement Asset Forfeiture Fund", 
+            "2013": 1000
+          }, 
+          {
+            "value": 2118000, 
+            "name": "Procurement, Acquisition and Construction", 
+            "2013": 2013000
+          }
+        ]
+      }, 
+      {
+        "name": "Economic Development Administration", 
+        "children": [
+          {
+            "value": 39000, 
+            "name": "Salaries and Expenses", 
+            "2013": 38000
+          }, 
+          {
+            "value": 282000, 
+            "name": "Economic Development Assistance Programs", 
+            "2013": 221000
+          }
+        ]
+      }, 
+      {
+        "name": "National Institute of Standards and Technology", 
+        "children": [
+          {
+            "value": 60000, 
+            "name": "Construction of Research Facilities", 
+            "2013": 56000
+          }, 
+          {
+            "value": 698000, 
+            "name": "Scientific and Technical Research and Services", 
+            "2013": 580000
+          }, 
+          {
+            "value": 174000, 
+            "name": "Industrial Technology Services", 
+            "2013": 129000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "The Treasury", 
+    "children": [
+      {
+        "name": "Interest on the Public Debt", 
+        "children": [
+          {
+            "value": 7324000, 
+            "name": "Interest Paid to Federal Fund Receipt Accounts - Shadow Account", 
+            "2013": 7355000
+          }, 
+          {
+            "value": 257360000, 
+            "name": "Interest on Treasury Debt Securities (gross)", 
+            "2013": 253187000
+          }, 
+          {
+            "value": 3374000, 
+            "name": "Interest Paid to Expenditure Accounts - Shadow Account", 
+            "2013": 3841000
+          }, 
+          {
+            "value": 149901000, 
+            "name": "Interest Paid to Trust Fund Receipt Accounts - Shadow Account", 
+            "2013": 156228000
+          }
+        ]
+      }, 
+      {
+        "name": "Internal Revenue Service", 
+        "children": [
+          {
+            "value": 4569000, 
+            "name": "Operations Support", 
+            "2013": 4129000
+          }, 
+          {
+            "value": 140000, 
+            "name": "Payment Where Small Business Health Insurance Tax Credit Exceeds Liability for Tax", 
+            "2013": 56000
+          }, 
+          {
+            "value": 24000, 
+            "name": "Payment to Issuer of New Clean Renewable Energy Bonds", 
+            "2013": 24000
+          }, 
+          {
+            "value": 7449000, 
+            "name": "Payment Where American Opportunity Credit Exceeds Liability for TAX", 
+            "2013": 7236000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Therapeutic Discovery Program Grants and Administration", 
+            "2013": 3000
+          }, 
+          {
+            "value": 657000, 
+            "name": "Enforcement", 
+            "2013": 637000
+          }, 
+          {
+            "value": 262000, 
+            "name": "IRS Miscellaneous Retained Fees", 
+            "2013": 189000
+          }, 
+          {
+            "value": 25119000, 
+            "name": "Payment Where Child Tax Credit Exceeds Liability for Tax", 
+            "2013": 23061000
+          }, 
+          {
+            "value": 2412000, 
+            "name": "Taxpayer Services", 
+            "2013": 2254000
+          }, 
+          {
+            "value": 32000, 
+            "name": "Payment Where Health Coverage Tax Credit Exceeds Liability for Tax", 
+            "2013": 120000
+          }, 
+          {
+            "value": 32000, 
+            "name": "Payment to Issuer of Qualified Energy Conservation Bonds", 
+            "2013": 32000
+          }, 
+          {
+            "value": 30000, 
+            "name": "Payment Where Alternative Minimum Tax Credit Exceeds Liability for Tax", 
+            "2013": 90000
+          }, 
+          {
+            "value": 3345000, 
+            "name": "Refunding Internal Revenue Collections, Interest", 
+            "2013": 3088000
+          }, 
+          {
+            "value": 301000, 
+            "name": "Business Systems Modernization", 
+            "2013": 332000
+          }, 
+          {
+            "value": 38000, 
+            "name": "Payment to Issuer of Qualified Zone Academy Bonds", 
+            "2013": 38000
+          }, 
+          {
+            "value": 125000, 
+            "name": "Informant Payments", 
+            "2013": 125000
+          }, 
+          {
+            "value": 4334000, 
+            "name": "Build America Bond Payments, Recovery Act", 
+            "2013": 4334000
+          }, 
+          {
+            "value": 820000, 
+            "name": "Payment to Issuer of Qualified School Construction Bonds", 
+            "2013": 820000
+          }, 
+          {
+            "value": 55602000, 
+            "name": "Payment Where Earned Income Credit Exceeds Liability for Tax", 
+            "2013": 55123000
+          }
+        ]
+      }, 
+      {
+        "name": "Financial Crimes Enforcement Network", 
+        "children": [
+          {
+            "value": 104000, 
+            "name": "Salaries and Expenses", 
+            "2013": 111000
+          }
+        ]
+      }, 
+      {
+        "name": "Fiscal Service", 
+        "children": [
+          {
+            "value": 636000, 
+            "name": "Financial Agent Services", 
+            "2013": 655000
+          }, 
+          {
+            "value": 13317000, 
+            "name": "Interest Paid to Credit Financing Accounts", 
+            "2013": 11902000
+          }, 
+          {
+            "value": 320000, 
+            "name": "Gulf Coast Restoration Trust Fund", 
+            "2013": 320000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Federal Interest Liabilities to States", 
+            "2013": 2000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Payment of Government Losses in Shipment", 
+            "2013": 1000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Cheyenne River Sioux Tribe Terrestrial Wildlife Habitat Restoration Trust Fund", 
+            "2013": 2000
+          }, 
+          {
+            "value": 89000, 
+            "name": "Salaries and Expenses, Fiscal Service", 
+            "2013": 74000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Check Forgery Insurance Fund", 
+            "2013": 2000
+          }, 
+          {
+            "value": 2340000, 
+            "name": "Claims, Judgments, and Relief Acts", 
+            "2013": 4268000
+          }, 
+          {
+            "value": 2628000, 
+            "name": "Payment to the Resolution Funding Corporation", 
+            "2013": 2628000
+          }, 
+          {
+            "value": 110000, 
+            "name": "Reimbursements to Federal Reserve Banks", 
+            "2013": 113000
+          }, 
+          {
+            "value": 100000, 
+            "name": "Continued Dumping and Subsidy Offset", 
+            "2013": 100000
+          }, 
+          {
+            "value": 24000, 
+            "name": "Interest on Uninvested Funds", 
+            "2013": 24000
+          }, 
+          {
+            "value": 395000, 
+            "name": "Federal Reserve Bank Reimbursement Fund", 
+            "2013": 331000
+          }
+        ]
+      }, 
+      {
+        "name": "Alcohol and Tobacco Tax and Trade Bureau", 
+        "children": [
+          {
+            "value": 433000, 
+            "name": "Internal Revenue Collections for Puerto Rico", 
+            "2013": 616000
+          }, 
+          {
+            "value": 101000, 
+            "name": "Salaries and Expenses", 
+            "2013": 100000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Offices", 
+        "children": [
+          {
+            "value": 10000, 
+            "name": "GSE Mortgage-Backed Securities Purchase Program Account", 
+            "2013": 548000
+          }, 
+          {
+            "value": 113000, 
+            "name": "Financial Research Fund", 
+            "2013": 51000
+          }, 
+          {
+            "value": 201000, 
+            "name": "Office of Financial Stability", 
+            "2013": 306000
+          }, 
+          {
+            "value": 225000, 
+            "name": "Community Development Financial Institutions Fund Program Account", 
+            "2013": 222000
+          }, 
+          {
+            "value": 253000, 
+            "name": "Terrorism Insurance Program", 
+            "2013": 108000
+          }, 
+          {
+            "value": 312000, 
+            "name": "Salaries and Expenses", 
+            "2013": 310000
+          }, 
+          {
+            "value": 35000, 
+            "name": "Special Inspector General for the Troubled Asset Relief Program", 
+            "2013": 42000
+          }, 
+          {
+            "value": 20000, 
+            "name": "Small Business Lending Fund Program Account", 
+            "2013": 58000
+          }, 
+          {
+            "value": 4710000, 
+            "name": "Grants for Specified Energy Property in Lieu of Tax Credits, Recovery Act", 
+            "2013": 8080000
+          }, 
+          {
+            "value": 1544000, 
+            "name": "Treasury Forfeiture Fund", 
+            "2013": 2833000
+          }, 
+          {
+            "value": 150000, 
+            "name": "Treasury Inspector General for Tax Administration", 
+            "2013": 153000
+          }, 
+          {
+            "value": 31000, 
+            "name": "Office of Inspector General", 
+            "2013": 30000
+          }, 
+          {
+            "value": 33000, 
+            "name": "Presidential Election Campaign Fund", 
+            "2013": 35000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Education", 
+    "children": [
+      {
+        "name": "Office of Vocational and Adult Education", 
+        "children": [
+          {
+            "value": 1750000, 
+            "name": "Career, Technical and Adult Education", 
+            "2013": 1743000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Management", 
+        "children": [
+          {
+            "value": 463000, 
+            "name": "Program Administration", 
+            "2013": 449000
+          }, 
+          {
+            "value": 62000, 
+            "name": "Office of the Inspector General", 
+            "2013": 60000
+          }, 
+          {
+            "value": 108000, 
+            "name": "Office for Civil Rights", 
+            "2013": 104000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Special Education and Rehabilitative Services", 
+        "children": [
+          {
+            "value": 11816000, 
+            "name": "Special Education", 
+            "2013": 12661000
+          }, 
+          {
+            "value": 65000, 
+            "name": "National Technical Institute for the Deaf", 
+            "2013": 66000
+          }, 
+          {
+            "value": 353000, 
+            "name": "Rehabilitation Services and Disability Research", 
+            "2013": 391000
+          }, 
+          {
+            "value": 25000, 
+            "name": "American Printing House for the Blind", 
+            "2013": 25000
+          }, 
+          {
+            "value": 118000, 
+            "name": "Gallaudet University", 
+            "2013": 126000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Innovation and Improvement", 
+        "children": [
+          {
+            "value": 5335000, 
+            "name": "Innovation and Instructional Teams", 
+            "2013": 1537000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Postsecondary Education", 
+        "children": [
+          {
+            "value": 428000, 
+            "name": "Higher Education", 
+            "2013": 428000
+          }, 
+          {
+            "value": 21000, 
+            "name": "College Housing and Academic Facilities Loans Program Account", 
+            "2013": 21000
+          }, 
+          {
+            "value": 234000, 
+            "name": "Howard University", 
+            "2013": 235000
+          }
+        ]
+      }, 
+      {
+        "name": "Institute of Education Sciences", 
+        "children": [
+          {
+            "value": 671000, 
+            "name": "Institute of Education Sciences", 
+            "2013": 598000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of English Language Acquisition", 
+        "children": [
+          {
+            "value": 732000, 
+            "name": "English Learner Education", 
+            "2013": 737000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Elementary and Secondary Education", 
+        "children": [
+          {
+            "value": 14843000, 
+            "name": "Accelerating Achievement and Ensuring Equity", 
+            "2013": 15772000
+          }, 
+          {
+            "value": 1832000, 
+            "name": "Supporting Student Success", 
+            "2013": 258000
+          }, 
+          {
+            "value": 1224000, 
+            "name": "Impact Aid", 
+            "2013": 1299000
+          }, 
+          {
+            "value": 2757000, 
+            "name": "Education Improvement Programs", 
+            "2013": 4562000
+          }, 
+          {
+            "value": 131000, 
+            "name": "Indian Student Education", 
+            "2013": 132000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Federal Student Aid", 
+        "children": [
+          {
+            "value": 191000, 
+            "name": "Teacher Education Assistance", 
+            "2013": 3000
+          }, 
+          {
+            "value": 9000, 
+            "name": "Student Financial Assistance Debt Collection", 
+            "2013": 9000
+          }, 
+          {
+            "value": 7044000, 
+            "name": "Student Financial Assistance", 
+            "2013": 12441000
+          }, 
+          {
+            "value": 2871000, 
+            "name": "Federal Direct Student Loan Program Account", 
+            "2013": 3274000
+          }, 
+          {
+            "value": 434000, 
+            "name": "Student Aid Administration", 
+            "2013": 386000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "The Interior", 
+    "children": [
+      {
+        "name": "United States Geological Survey", 
+        "children": [
+          {
+            "value": 1000, 
+            "name": "Contributed Funds", 
+            "2013": 1000
+          }, 
+          {
+            "value": 1167000, 
+            "name": "Surveys, Investigations, and Research", 
+            "2013": 1075000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Surface Mining Reclamation and Enforcement", 
+        "children": [
+          {
+            "value": 180000, 
+            "name": "Supplemental Payments to UMWA Health Plans", 
+            "2013": 141000
+          }, 
+          {
+            "value": 115000, 
+            "name": "Regulation and Technology", 
+            "2013": 124000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Abandoned Mine Reclamation Fund", 
+            "2013": 55000
+          }, 
+          {
+            "value": 85000, 
+            "name": "Payments to States in Lieu of Coal Fee Receipts", 
+            "2013": 85000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Fish and Wildlife Service", 
+        "children": [
+          {
+            "value": 8000, 
+            "name": "National Wildlife Refuge Fund", 
+            "2013": 8000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Recreation Enhancement Fee Program, FWS", 
+            "2013": 5000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Multinational Species Conservation Fund", 
+            "2013": 10000
+          }, 
+          {
+            "value": 421000, 
+            "name": "Sport Fish Restoration", 
+            "2013": 462000
+          }, 
+          {
+            "value": 4000, 
+            "name": "Miscellaneous Permanent Appropriations", 
+            "2013": 4000
+          }, 
+          {
+            "value": 56000, 
+            "name": "Cooperative Endangered Species Conservation Fund", 
+            "2013": 48000
+          }, 
+          {
+            "value": 66000, 
+            "name": "Migratory Bird Conservation Account", 
+            "2013": 52000
+          }, 
+          {
+            "value": 1295000, 
+            "name": "Resource Management", 
+            "2013": 1234000
+          }, 
+          {
+            "value": 16000, 
+            "name": "Construction", 
+            "2013": 91000
+          }, 
+          {
+            "value": 61000, 
+            "name": "State Wildlife Grants", 
+            "2013": 62000
+          }, 
+          {
+            "value": 71000, 
+            "name": "Land Acquisition", 
+            "2013": 55000
+          }, 
+          {
+            "value": 4000, 
+            "name": "Neotropical Migratory Bird Conservation", 
+            "2013": 4000
+          }, 
+          {
+            "value": 611000, 
+            "name": "Federal Aid in Wildlife Restoration", 
+            "2013": 571000
+          }, 
+          {
+            "value": 1000, 
+            "name": "North American Wetlands Conservation Fund", 
+            "2013": 1000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Contributed Funds", 
+            "2013": 3000
+          }
+        ]
+      }, 
+      {
+        "name": "Insular Affairs", 
+        "children": [
+          {
+            "value": 315000, 
+            "name": "Payments to the United States Territories, Fiscal Assistance", 
+            "2013": 340000
+          }, 
+          {
+            "value": 28000, 
+            "name": "Assistance to Territories", 
+            "2013": 28000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Compact of Free Association", 
+            "2013": 16000
+          }
+        ]
+      }, 
+      {
+        "name": "National Indian Gaming Commission", 
+        "children": [
+          {
+            "value": 19000, 
+            "name": "National Indian Gaming Commission, Gaming Activity Fees", 
+            "2013": 19000
+          }
+        ]
+      }, 
+      {
+        "name": "Central Utah Project", 
+        "children": [
+          {
+            "value": 1000, 
+            "name": "Utah Reclamation Mitigation and Conservation Account", 
+            "2013": 2000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Central Utah Project Completion Account", 
+            "2013": 27000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of the Solicitor", 
+        "children": [
+          {
+            "value": 66000, 
+            "name": "Salaries and Expenses", 
+            "2013": 67000
+          }
+        ]
+      }, 
+      {
+        "name": "Department-Wide Programs", 
+        "children": [
+          {
+            "value": 13000, 
+            "name": "Natural Resource Damage Assessment Fund", 
+            "2013": 6000
+          }, 
+          {
+            "value": 777000, 
+            "name": "Wildland Fire Management", 
+            "2013": 826000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Central Hazardous Materials Fund", 
+            "2013": 10000
+          }, 
+          {
+            "value": 62000, 
+            "name": "Working Capital Fund", 
+            "2013": 62000
+          }, 
+          {
+            "value": 410000, 
+            "name": "Payments in Lieu of Taxes", 
+            "2013": 401000
+          }
+        ]
+      }, 
+      {
+        "name": "National Park Service", 
+        "children": [
+          {
+            "value": 196000, 
+            "name": "Recreation Fee Permanent Appropriations", 
+            "2013": 195000
+          }, 
+          {
+            "value": 2285000, 
+            "name": "Operation of the National Park System", 
+            "2013": 2250000
+          }, 
+          {
+            "value": 160000, 
+            "name": "Construction (and Major Maintenance)", 
+            "2013": 520000
+          }, 
+          {
+            "value": 168000, 
+            "name": "Other Permanent Appropriations", 
+            "2013": 165000
+          }, 
+          {
+            "value": 70000, 
+            "name": "Land Acquisition and State Assistance", 
+            "2013": 73000
+          }, 
+          {
+            "value": 59000, 
+            "name": "Historic Preservation Fund", 
+            "2013": 106000
+          }, 
+          {
+            "value": 30000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 30000
+          }, 
+          {
+            "value": 52000, 
+            "name": "National Recreation and Preservation", 
+            "2013": 60000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Safety and Environmental Enforcement", 
+        "children": [
+          {
+            "value": 83000, 
+            "name": "Offshore Safety and Environmental Enforcement", 
+            "2013": 124000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Oil Spill Research", 
+            "2013": 15000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Ocean Energy Management", 
+        "children": [
+          {
+            "value": 71000, 
+            "name": "Ocean Energy Management", 
+            "2013": -2000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Land Management", 
+        "children": [
+          {
+            "value": 116000, 
+            "name": "Oregon and California Grant Lands", 
+            "2013": 113000
+          }, 
+          {
+            "value": 980000, 
+            "name": "Management of Lands and Resources", 
+            "2013": 966000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Miscellaneous Permanent Payment Accounts", 
+            "2013": 46000
+          }, 
+          {
+            "value": 32000, 
+            "name": "Service Charges, Deposits, and Forfeitures", 
+            "2013": 32000
+          }, 
+          {
+            "value": 33000, 
+            "name": "Land Acquisition", 
+            "2013": 22000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 25000
+          }, 
+          {
+            "value": 61000, 
+            "name": "Permanent Operating Funds", 
+            "2013": 65000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Range Improvements", 
+            "2013": 10000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Offices", 
+        "children": [
+          {
+            "value": 27000, 
+            "name": "Leases of Lands Acquired for Flood Control, Navigation, and Allied Purposes", 
+            "2013": 26000
+          }, 
+          {
+            "value": 269000, 
+            "name": "Salaries and Expenses", 
+            "2013": 624000
+          }, 
+          {
+            "value": 2142000, 
+            "name": "Mineral Leasing and Associated Payments", 
+            "2013": 2057000
+          }, 
+          {
+            "value": 8000, 
+            "name": "National Forests Fund, Payment to States", 
+            "2013": 8000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Reclamation", 
+        "children": [
+          {
+            "value": 53000, 
+            "name": "Central Valley Project Restoration Fund", 
+            "2013": 53000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Lower Colorado River Basin Development Fund", 
+            "2013": 6000
+          }, 
+          {
+            "value": 60000, 
+            "name": "Policy and Administration", 
+            "2013": 60000
+          }, 
+          {
+            "value": 60000, 
+            "name": "Reclamation Water Settlements Fund", 
+            "2013": 60000
+          }, 
+          {
+            "value": 111000, 
+            "name": "Colorado River Dam Fund, Boulder Canyon Project", 
+            "2013": 112000
+          }, 
+          {
+            "value": 37000, 
+            "name": "California Bay-Delta Restoration", 
+            "2013": 40000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Reclamation Trust Funds", 
+            "2013": 3000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Water and Related Resources", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of the Special Trustee for American Indians", 
+        "children": [
+          {
+            "value": 324000, 
+            "name": "Tribal Special Fund", 
+            "2013": 313000
+          }, 
+          {
+            "value": 140000, 
+            "name": "Federal Trust Programs", 
+            "2013": 153000
+          }, 
+          {
+            "value": 104000, 
+            "name": "Tribal Trust Fund", 
+            "2013": 100000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Indian Affairs and Bureau of Indian Education", 
+        "children": [
+          {
+            "value": 3000, 
+            "name": "White Earth Settlement Fund", 
+            "2013": 3000
+          }, 
+          {
+            "value": 6000, 
+            "name": "Operation and Maintenance of Quarters", 
+            "2013": 6000
+          }, 
+          {
+            "value": 36000, 
+            "name": "Indian Land and Water Claim Settlements and Miscellaneous Payments to Indians", 
+            "2013": 33000
+          }, 
+          {
+            "value": 100000, 
+            "name": "Miscellaneous Permanent Appropriations", 
+            "2013": 100000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Indian Guaranteed Loan Program Account", 
+            "2013": 7000
+          }, 
+          {
+            "value": 160000, 
+            "name": "Operation of Indian Programs", 
+            "2013": 179000
+          }, 
+          {
+            "value": 107000, 
+            "name": "Construction", 
+            "2013": 124000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Inspector General", 
+        "children": [
+          {
+            "value": 51000, 
+            "name": "Salaries and Expenses", 
+            "2013": 50000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Labor", 
+    "children": [
+      {
+        "name": "Departmental Management", 
+        "children": [
+          {
+            "value": 21000, 
+            "name": "Information Technology Modernization", 
+            "2013": 20000
+          }, 
+          {
+            "value": 348000, 
+            "name": "Salaries and Expenses", 
+            "2013": 348000
+          }, 
+          {
+            "value": 80000, 
+            "name": "Office of the Inspector General", 
+            "2013": 78000
+          }, 
+          {
+            "value": 38000, 
+            "name": "Veterans Employment and Training", 
+            "2013": 53000
+          }, 
+          {
+            "value": 42000, 
+            "name": "Office of Disability Employment Policy", 
+            "2013": 39000
+          }
+        ]
+      }, 
+      {
+        "name": "Wage and Hour Division", 
+        "children": [
+          {
+            "value": 243000, 
+            "name": "Salaries and Expenses", 
+            "2013": 229000
+          }, 
+          {
+            "value": 35000, 
+            "name": "H-1 B and L Fraud Prevention and Detection", 
+            "2013": 35000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Federal Contract Compliance Programs", 
+        "children": [
+          {
+            "value": 108000, 
+            "name": "Salaries and Expenses", 
+            "2013": 106000
+          }
+        ]
+      }, 
+      {
+        "name": "Employee Benefits Security Administration", 
+        "children": [
+          {
+            "value": 180000, 
+            "name": "Salaries and Expenses", 
+            "2013": 184000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Labor Statistics", 
+        "children": [
+          {
+            "value": 547000, 
+            "name": "Salaries and Expenses", 
+            "2013": 545000
+          }
+        ]
+      }, 
+      {
+        "name": "Mine Safety and Health Administration", 
+        "children": [
+          {
+            "value": 381000, 
+            "name": "Salaries and Expenses", 
+            "2013": 376000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Workers' Compensation Programs", 
+        "children": [
+          {
+            "value": 133000, 
+            "name": "Special Benefits for Disabled Coal Miners", 
+            "2013": 163000
+          }, 
+          {
+            "value": 316000, 
+            "name": "Black Lung Disability Trust Fund", 
+            "2013": 304000
+          }, 
+          {
+            "value": 129000, 
+            "name": "Administrative Expenses, Energy Employees Occupational Illness Compensation Fund", 
+            "2013": 129000
+          }, 
+          {
+            "value": 120000, 
+            "name": "Salaries and Expenses", 
+            "2013": 116000
+          }, 
+          {
+            "value": 1174000, 
+            "name": "Energy Employees Occupational Illness Compensation Fund", 
+            "2013": 1212000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Special Workers' Compensation Expenses", 
+            "2013": 2000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Special Benefits", 
+            "2013": 3000
+          }
+        ]
+      }, 
+      {
+        "name": "Labor", 
+        "children": [
+          {
+            "value": 2000, 
+            "name": "All Other General Fund Proprietary Receipts Including Budget Clearing Accounts", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "Employment and Training Administration", 
+        "children": [
+          {
+            "value": 196000, 
+            "name": "Federal Unemployment Benefits and Allowances", 
+            "2013": 575000
+          }, 
+          {
+            "value": 215000, 
+            "name": "Short Time Compensation Programs", 
+            "2013": 182000
+          }, 
+          {
+            "value": 1692000, 
+            "name": "Office of Job Corps", 
+            "2013": 1713000
+          }, 
+          {
+            "value": 99000, 
+            "name": "Program Administration", 
+            "2013": 98000
+          }, 
+          {
+            "value": 500000, 
+            "name": "TAA Community College and Career Training Grant Fund", 
+            "2013": 500000
+          }, 
+          {
+            "value": 13000, 
+            "name": "State Unemployment Insurance and Employment Service Operations", 
+            "2013": 13000
+          }, 
+          {
+            "value": 7157000, 
+            "name": "Payments to the Unemployment Trust Fund", 
+            "2013": 30767000
+          }, 
+          {
+            "value": 1176000, 
+            "name": "Unemployment Trust Fund", 
+            "2013": 1100000
+          }, 
+          {
+            "value": 125000, 
+            "name": "Training and Employment Services", 
+            "2013": 125000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Labor Management Standards", 
+        "children": [
+          {
+            "value": 47000, 
+            "name": "Salaries and Expenses", 
+            "2013": 42000
+          }
+        ]
+      }, 
+      {
+        "name": "Occupational Safety and Health Administration", 
+        "children": [
+          {
+            "value": 571000, 
+            "name": "Salaries and Expenses", 
+            "2013": 569000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Federal Communications Commission", 
+    "children": [
+      {
+        "name": "Federal Communications Commission", 
+        "children": [
+          {
+            "value": 9857000, 
+            "name": "Universal Service Fund", 
+            "2013": 10127000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Spectrum Auction Program Account", 
+            "2013": 4000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Homeland Security", 
+    "children": [
+      {
+        "name": "Office of the Inspector General", 
+        "children": [
+          {
+            "value": 143000, 
+            "name": "Operating Expenses", 
+            "2013": 145000
+          }
+        ]
+      }, 
+      {
+        "name": "National Protection and Programs Directorate", 
+        "children": [
+          {
+            "value": 1202000, 
+            "name": "Infrastructure Protection and Information Security", 
+            "2013": 1170000
+          }, 
+          {
+            "value": 65000, 
+            "name": "National Protection and Programs Directorate", 
+            "2013": 51000
+          }, 
+          {
+            "value": 132000, 
+            "name": "Office of Health Affairs", 
+            "2013": 168000
+          }
+        ]
+      }, 
+      {
+        "name": "Domestic Nuclear Detection Office", 
+        "children": [
+          {
+            "value": 42000, 
+            "name": "Systems Acquisition", 
+            "2013": 41000
+          }, 
+          {
+            "value": 211000, 
+            "name": "Research, Development, and Operations", 
+            "2013": 216000
+          }, 
+          {
+            "value": 38000, 
+            "name": "Management and Administration", 
+            "2013": 38000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Management and Operations", 
+        "children": [
+          {
+            "value": 327000, 
+            "name": "Office of the Chief Information Officer", 
+            "2013": 324000
+          }, 
+          {
+            "value": 309000, 
+            "name": "Analysis and Operations", 
+            "2013": 340000
+          }, 
+          {
+            "value": 484000, 
+            "name": "Departmental Operations", 
+            "2013": 478000
+          }
+        ]
+      }, 
+      {
+        "name": "Customs and Border Protection", 
+        "children": [
+          {
+            "value": 4000, 
+            "name": "US Customs Refunds, Transfers and Expenses, Unclaimed and Abandoned Goods", 
+            "2013": 4000
+          }, 
+          {
+            "value": 428000, 
+            "name": "Air and Marine Interdiction, Operations, Maintenance, and Procurement", 
+            "2013": 507000
+          }, 
+          {
+            "value": 340000, 
+            "name": "Automation Modernization, Customs and Border Protection", 
+            "2013": 331000
+          }, 
+          {
+            "value": 35000, 
+            "name": "International Registered Traveler", 
+            "2013": 34000
+          }, 
+          {
+            "value": 1498000, 
+            "name": "Customs and Border Protection", 
+            "2013": 1451000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Payments to Wool Manufacturers", 
+            "2013": 15000
+          }, 
+          {
+            "value": 55000, 
+            "name": "Electronic System for Travel Authorization", 
+            "2013": 54000
+          }, 
+          {
+            "value": 471000, 
+            "name": "Construction, Customs and Border Protection", 
+            "2013": 238000
+          }, 
+          {
+            "value": 351000, 
+            "name": "Border Security Fencing, Infrastructure, and Technology", 
+            "2013": 399000
+          }, 
+          {
+            "value": 99000, 
+            "name": "Refunds, Transfers, and Expenses of Operation, Puerto Rico", 
+            "2013": 103000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Coast Guard", 
+        "children": [
+          {
+            "value": 110000, 
+            "name": "Reserve Training", 
+            "2013": 135000
+          }, 
+          {
+            "value": 239000, 
+            "name": "Maritime Oil Spill Programs", 
+            "2013": 289000
+          }, 
+          {
+            "value": 13000, 
+            "name": "Environmental Compliance and Restoration", 
+            "2013": 14000
+          }, 
+          {
+            "value": 109000, 
+            "name": "Boat Safety", 
+            "2013": 121000
+          }, 
+          {
+            "value": 1452000, 
+            "name": "Retired Pay", 
+            "2013": 1440000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Trust Fund Share of Expenses", 
+            "2013": 45000
+          }, 
+          {
+            "value": 340000, 
+            "name": "Operating Expenses", 
+            "2013": 597000
+          }, 
+          {
+            "value": 889000, 
+            "name": "Acquisition, Construction, and Improvements", 
+            "2013": 1727000
+          }, 
+          {
+            "value": 187000, 
+            "name": "Medicare-eligible Retiree Health Fund Contribution, Homeland Security", 
+            "2013": 202000
+          }, 
+          {
+            "value": 20000, 
+            "name": "Research, Development, Test, and Evaluation", 
+            "2013": 28000
+          }
+        ]
+      }, 
+      {
+        "name": "Transportation Security Administration", 
+        "children": [
+          {
+            "value": 827000, 
+            "name": "Federal Air Marshals", 
+            "2013": 972000
+          }, 
+          {
+            "value": 181000, 
+            "name": "Transportation Threat Assessment and Credentialing", 
+            "2013": 165000
+          }, 
+          {
+            "value": 250000, 
+            "name": "Aviation Security", 
+            "2013": 250000
+          }, 
+          {
+            "value": 109000, 
+            "name": "Surface Transportation Security", 
+            "2013": 136000
+          }, 
+          {
+            "value": 998000, 
+            "name": "Transportation Security Support", 
+            "2013": 1038000
+          }
+        ]
+      }, 
+      {
+        "name": "Science and Technology", 
+        "children": [
+          {
+            "value": 1527000, 
+            "name": "Research, Development, Acquisitions and Operations", 
+            "2013": 675000
+          }
+        ]
+      }, 
+      {
+        "name": "Immigration and Customs Enforcement", 
+        "children": [
+          {
+            "value": 345000, 
+            "name": "Immigration and Customs Enforcement", 
+            "2013": 312000
+          }, 
+          {
+            "value": 35000, 
+            "name": "Automation Modernization, Immigration and Customs Enforcement", 
+            "2013": 12000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Emergency Management Agency", 
+        "children": [
+          {
+            "value": 1000000, 
+            "name": "National Flood Insurance Fund", 
+            "2013": 11725000
+          }, 
+          {
+            "value": 77000, 
+            "name": "Salaries and Expenses", 
+            "2013": 57000
+          }, 
+          {
+            "value": 100000, 
+            "name": "Emergency Food and Shelter", 
+            "2013": 121000
+          }, 
+          {
+            "value": 41000, 
+            "name": "United States Fire Administration and Training", 
+            "2013": 44000
+          }, 
+          {
+            "value": 6197000, 
+            "name": "Disaster Relief Fund", 
+            "2013": 18565000
+          }, 
+          {
+            "value": 2123000, 
+            "name": "State and Local Programs", 
+            "2013": 2301000
+          }, 
+          {
+            "value": 84000, 
+            "name": "Flood Hazard Mapping and Risk Analysis Program", 
+            "2013": 99000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Law Enforcement Training Center", 
+        "children": [
+          {
+            "value": 241000, 
+            "name": "Salaries and expenses", 
+            "2013": 240000
+          }, 
+          {
+            "value": 31000, 
+            "name": "Acquisitions, Construction, Improvements and Related Expenses", 
+            "2013": 33000
+          }
+        ]
+      }, 
+      {
+        "name": "Citizenship and Immigration Services", 
+        "children": [
+          {
+            "value": 120000, 
+            "name": "Citizenship and Immigration Services", 
+            "2013": 99000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Secret Service", 
+        "children": [
+          {
+            "value": 255000, 
+            "name": "Contribution for Annuity Benefits, United States Secret Service", 
+            "2013": 250000
+          }, 
+          {
+            "value": 1495000, 
+            "name": "Operating Expenses", 
+            "2013": 1670000
+          }, 
+          {
+            "value": 52000, 
+            "name": "Acquisition, Construction, and Improvements", 
+            "2013": 5000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "National Science Foundation", 
+    "children": [
+      {
+        "name": "National Science Foundation", 
+        "children": [
+          {
+            "value": 14000, 
+            "name": "Office of the Inspector General", 
+            "2013": 14000
+          }, 
+          {
+            "value": 304000, 
+            "name": "Agency Operations and Award Management", 
+            "2013": 301000
+          }, 
+          {
+            "value": 210000, 
+            "name": "Major Research Equipment and Facilities Construction", 
+            "2013": 168000
+          }, 
+          {
+            "value": 4000, 
+            "name": "Office of the National Science Board", 
+            "2013": 4000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Donations", 
+            "2013": 25000
+          }, 
+          {
+            "value": 68000, 
+            "name": "Research and Related Activities", 
+            "2013": 68000
+          }, 
+          {
+            "value": 100000, 
+            "name": "Education and Human Resources", 
+            "2013": 100000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "State", 
+    "children": [
+      {
+        "name": "Other", 
+        "children": [
+          {
+            "value": 6000, 
+            "name": "International Center, Washington, D.C.", 
+            "2013": 1000
+          }, 
+          {
+            "value": 1000, 
+            "name": "International Litigation Fund", 
+            "2013": 1000
+          }, 
+          {
+            "value": 11000, 
+            "name": "East-West Center", 
+            "2013": 17000
+          }, 
+          {
+            "value": 103000, 
+            "name": "National Endowment for Democracy", 
+            "2013": 118000
+          }, 
+          {
+            "value": 8315000, 
+            "name": "Global Health Programs", 
+            "2013": 8218000
+          }, 
+          {
+            "value": 17000, 
+            "name": "Payment to the Asia Foundation", 
+            "2013": 17000
+          }, 
+          {
+            "value": 1761000, 
+            "name": "Migration and Refugee Assistance", 
+            "2013": 1885000
+          }, 
+          {
+            "value": 1474000, 
+            "name": "International Narcotics Control and Law Enforcement", 
+            "2013": 2051000
+          }, 
+          {
+            "value": 250000, 
+            "name": "United States Emergency Refugee and Migration Assistance Fund", 
+            "2013": 27000
+          }, 
+          {
+            "value": 40000, 
+            "name": "Complex Crises Fund", 
+            "2013": 40000
+          }
+        ]
+      }, 
+      {
+        "name": "International Organizations and Conferences", 
+        "children": [
+          {
+            "value": 2095000, 
+            "name": "Contributions for International Peacekeeping Activities", 
+            "2013": 1839000
+          }, 
+          {
+            "value": 1573000, 
+            "name": "Contributions to International Organizations", 
+            "2013": 1560000
+          }
+        ]
+      }, 
+      {
+        "name": "Administration of Foreign Affairs", 
+        "children": [
+          {
+            "value": 10000, 
+            "name": "Emergencies in the Diplomatic and Consular Service", 
+            "2013": 9000
+          }, 
+          {
+            "value": 28000, 
+            "name": "Protection of Foreign Missions and Officials", 
+            "2013": 27000
+          }, 
+          {
+            "value": 119000, 
+            "name": "Office of the Inspector General", 
+            "2013": 129000
+          }, 
+          {
+            "value": 300000, 
+            "name": "Payment to Foreign Service Retirement and Disability Fund", 
+            "2013": 300000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Representation Allowances", 
+            "2013": 7000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Repatriation Loans Program Account", 
+            "2013": 2000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 3000
+          }, 
+          {
+            "value": 563000, 
+            "name": "Educational and Cultural Exchange Programs", 
+            "2013": 603000
+          }, 
+          {
+            "value": 77000, 
+            "name": "Capital Investment Fund", 
+            "2013": 60000
+          }, 
+          {
+            "value": 915000, 
+            "name": "Foreign Service Retirement and Disability Fund", 
+            "2013": 893000
+          }, 
+          {
+            "value": 2649000, 
+            "name": "Embassy Security, Construction, and Maintenance", 
+            "2013": 1579000
+          }, 
+          {
+            "value": 36000, 
+            "name": "Payment to the American Institute in Taiwan", 
+            "2013": 21000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Foreign Service National Separation Liability Trust Fund", 
+            "2013": 14000
+          }, 
+          {
+            "value": 41000, 
+            "name": "Diplomatic and Consular Programs", 
+            "2013": 40000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Conflict Stabilization Operations", 
+            "2013": 8000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Foreign Service National Defined Contributions Retirement Fund", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "International Commissions", 
+        "children": [
+          {
+            "value": 12000, 
+            "name": "American Sections, International Commissions", 
+            "2013": 12000
+          }, 
+          {
+            "value": 31000, 
+            "name": "Construction, IBWC", 
+            "2013": 32000
+          }, 
+          {
+            "value": 46000, 
+            "name": "Salaries and Expenses, IBWC", 
+            "2013": 45000
+          }, 
+          {
+            "value": 31000, 
+            "name": "International Fisheries Commissions", 
+            "2013": 37000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Housing and Urban Development", 
+    "children": [
+      {
+        "name": "Government National Mortgage Association", 
+        "children": [
+          {
+            "value": 542000, 
+            "name": "Guarantees of Mortgage-backed Securities Capital Reserve Account", 
+            "2013": 6663000
+          }
+        ]
+      }, 
+      {
+        "name": "Public and Indian Housing Programs", 
+        "children": [
+          {
+            "value": 10278000, 
+            "name": "Project-based Rental Assistance", 
+            "2013": 9395000
+          }, 
+          {
+            "value": 19996000, 
+            "name": "Tenant Based Rental Assistance", 
+            "2013": 19006000
+          }, 
+          {
+            "value": 647000, 
+            "name": "Native American Housing Block Grant", 
+            "2013": 654000
+          }, 
+          {
+            "value": 398000, 
+            "name": "Choice Neighborhoods", 
+            "2013": 121000
+          }, 
+          {
+            "value": 13000, 
+            "name": "Native Hawaiian Housing Block Grant", 
+            "2013": 13000
+          }, 
+          {
+            "value": 4560000, 
+            "name": "Public Housing Operating Fund", 
+            "2013": 3986000
+          }, 
+          {
+            "value": 6000, 
+            "name": "Indian Housing Loan Guarantee Fund Program Account", 
+            "2013": 6000
+          }, 
+          {
+            "value": 1979000, 
+            "name": "Public Housing Capital Fund", 
+            "2013": 1886000
+          }
+        ]
+      }, 
+      {
+        "name": "Housing Programs", 
+        "children": [
+          {
+            "value": 1000, 
+            "name": "Payment to Manufactured Housing Fees Trust Fund", 
+            "2013": 3000
+          }, 
+          {
+            "value": 12951000, 
+            "name": "FHA-mutual Mortgage Insurance Capital Reserve Account", 
+            "2013": -5255000
+          }, 
+          {
+            "value": 6000, 
+            "name": "FHA-general and Special Risk Insurance Funds Liquidating Account", 
+            "2013": -27000
+          }, 
+          {
+            "value": 126000, 
+            "name": "FHA-mutual Mortgage Insurance Program Account", 
+            "2013": 208000
+          }, 
+          {
+            "value": 17000, 
+            "name": "Other Assisted Housing Programs", 
+            "2013": -22000
+          }, 
+          {
+            "value": 125000, 
+            "name": "Housing for Persons with Disabilities", 
+            "2013": 166000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Manufactured Housing Fees Trust Fund", 
+            "2013": 6000
+          }, 
+          {
+            "value": 398000, 
+            "name": "Housing for the Elderly", 
+            "2013": 377000
+          }, 
+          {
+            "value": 55000, 
+            "name": "Housing Counseling Assistance", 
+            "2013": 45000
+          }
+        ]
+      }, 
+      {
+        "name": "Community Planning and Development", 
+        "children": [
+          {
+            "value": 1000, 
+            "name": "Revolving Fund (liquidating Programs)", 
+            "2013": 1000
+          }, 
+          {
+            "value": 945000, 
+            "name": "Home Investment Partnership Program", 
+            "2013": 1006000
+          }, 
+          {
+            "value": 3128000, 
+            "name": "Community Development Fund", 
+            "2013": 19308000
+          }, 
+          {
+            "value": 2381000, 
+            "name": "Homeless Assistance Grants", 
+            "2013": 1913000
+          }, 
+          {
+            "value": 330000, 
+            "name": "Housing Opportunities for Persons with AIDS", 
+            "2013": 334000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Lead Hazard Control and Healthy Homes", 
+        "children": [
+          {
+            "value": 119000, 
+            "name": "Lead Hazard Reduction", 
+            "2013": 121000
+          }
+        ]
+      }, 
+      {
+        "name": "Policy Development and Research", 
+        "children": [
+          {
+            "value": 50000, 
+            "name": "Research and Technology", 
+            "2013": 46000
+          }
+        ]
+      }, 
+      {
+        "name": "Management and Administration", 
+        "children": [
+          {
+            "value": 383000, 
+            "name": "Housing Personnel Compensation and Benefits", 
+            "2013": 394000
+          }, 
+          {
+            "value": 285000, 
+            "name": "Information Technology Portfolio", 
+            "2013": 200000
+          }, 
+          {
+            "value": 505000, 
+            "name": "Administrative Support Offices", 
+            "2013": 541000
+          }, 
+          {
+            "value": 220000, 
+            "name": "Public and Indian Housing Personnel Compensation and Benefits", 
+            "2013": 201000
+          }, 
+          {
+            "value": 22000, 
+            "name": "Policy Development and Research Personnel Compensation and Benefits", 
+            "2013": 22000
+          }, 
+          {
+            "value": 80000, 
+            "name": "Transformation Initiative", 
+            "2013": 50000
+          }, 
+          {
+            "value": 77000, 
+            "name": "Fair Housing and Equal Opportunity Personnel Compensation and Benefits", 
+            "2013": 73000
+          }, 
+          {
+            "value": 128000, 
+            "name": "Office of Inspector General", 
+            "2013": 135000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Office of Healthy Homes and Lead Hazard Control Personnel Compensation and Benefits", 
+            "2013": 7000
+          }, 
+          {
+            "value": 110000, 
+            "name": "Community Planning and Development Personnel Compensation and Benefits", 
+            "2013": 111000
+          }
+        ]
+      }, 
+      {
+        "name": "Fair Housing and Equal Opportunity", 
+        "children": [
+          {
+            "value": 71000, 
+            "name": "Fair Housing Activities", 
+            "2013": 71000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Justice", 
+    "children": [
+      {
+        "name": "Legal Activities and U.S. Marshals", 
+        "children": [
+          {
+            "value": 58000, 
+            "name": "Salaries and Expenses, Antitrust Division", 
+            "2013": 43000
+          }, 
+          {
+            "value": 270000, 
+            "name": "Fees and Expenses of Witnesses", 
+            "2013": 270000
+          }, 
+          {
+            "value": 2163000, 
+            "name": "Assets Forfeiture Fund", 
+            "2013": 2162000
+          }, 
+          {
+            "value": 12000, 
+            "name": "Salaries and Expenses, Community Relations Service", 
+            "2013": 11000
+          }, 
+          {
+            "value": 903000, 
+            "name": "Salaries and Expenses, General Legal Activities", 
+            "2013": 868000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Construction", 
+            "2013": 15000
+          }, 
+          {
+            "value": 200000, 
+            "name": "September 11th Victim Compensation (general Fund)", 
+            "2013": 322000
+          }, 
+          {
+            "value": 226000, 
+            "name": "United States Trustee System Fund", 
+            "2013": 225000
+          }, 
+          {
+            "value": 1192000, 
+            "name": "Salaries and Expenses, United States Marshals Service", 
+            "2013": 1179000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Salaries and Expenses, Foreign Claims Settlement Commission", 
+            "2013": 2000
+          }, 
+          {
+            "value": 2008000, 
+            "name": "Salaries and Expenses, United States Attorneys", 
+            "2013": 1972000
+          }
+        ]
+      }, 
+      {
+        "name": "Bureau of Alcohol, Tobacco, Firearms, and Explosives", 
+        "children": [
+          {
+            "value": 1217000, 
+            "name": "Salaries and Expenses", 
+            "2013": 1159000
+          }
+        ]
+      }, 
+      {
+        "name": "Radiation Exposure Compensation", 
+        "children": [
+          {
+            "value": 82000, 
+            "name": "Radiation Exposure Compensation Trust Fund", 
+            "2013": 94000
+          }, 
+          {
+            "value": 82000, 
+            "name": "Payment to Radiation Exposure Compensation Trust Fund", 
+            "2013": 94000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Parole Commission", 
+        "children": [
+          {
+            "value": 13000, 
+            "name": "Salaries and Expenses", 
+            "2013": 13000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Justice Programs", 
+        "children": [
+          {
+            "value": 325000, 
+            "name": "Juvenile Justice Programs", 
+            "2013": 255000
+          }, 
+          {
+            "value": 969000, 
+            "name": "State and Local Law Enforcement Assistance", 
+            "2013": 1126000
+          }, 
+          {
+            "value": 426000, 
+            "name": "Community Oriented Policing Services", 
+            "2013": 163000
+          }, 
+          {
+            "value": 123000, 
+            "name": "Research, Evaluation, and Statistics", 
+            "2013": 104000
+          }, 
+          {
+            "value": 407000, 
+            "name": "Violence against Women Prevention and Prosecution Programs", 
+            "2013": 400000
+          }, 
+          {
+            "value": 11431000, 
+            "name": "Crime Victims Fund", 
+            "2013": 10236000
+          }, 
+          {
+            "value": 16000, 
+            "name": "Public Safety Officer Benefits", 
+            "2013": 16000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Prison System", 
+        "children": [
+          {
+            "value": 6831000, 
+            "name": "Salaries and Expenses", 
+            "2013": 6591000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Federal Prison Industries, Incorporated", 
+            "2013": 3000
+          }, 
+          {
+            "value": 75000, 
+            "name": "Buildings and Facilities", 
+            "2013": 55000
+          }
+        ]
+      }, 
+      {
+        "name": "Interagency Law Enforcement", 
+        "children": [
+          {
+            "value": 523000, 
+            "name": "Interagency Crime and Drug Enforcement", 
+            "2013": 530000
+          }
+        ]
+      }, 
+      {
+        "name": "Drug Enforcement Administration", 
+        "children": [
+          {
+            "value": 2058000, 
+            "name": "Salaries and Expenses", 
+            "2013": 2040000
+          }, 
+          {
+            "value": 356000, 
+            "name": "Diversion Control Fee Account", 
+            "2013": 336000
+          }
+        ]
+      }, 
+      {
+        "name": "National Security Division", 
+        "children": [
+          {
+            "value": 96000, 
+            "name": "Salaries and Expenses", 
+            "2013": 88000
+          }
+        ]
+      }, 
+      {
+        "name": "General Administration", 
+        "children": [
+          {
+            "value": 126000, 
+            "name": "Salaries and Expenses", 
+            "2013": 112000
+          }, 
+          {
+            "value": 26000, 
+            "name": "Justice Information Sharing Technology", 
+            "2013": 44000
+          }, 
+          {
+            "value": 333000, 
+            "name": "Administrative Review and Appeals", 
+            "2013": 307000
+          }, 
+          {
+            "value": 86000, 
+            "name": "Office of Inspector General", 
+            "2013": 85000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Bureau of Investigation", 
+        "children": [
+          {
+            "value": 3332000, 
+            "name": "Salaries and Expenses", 
+            "2013": 3289000
+          }, 
+          {
+            "value": 81000, 
+            "name": "Construction", 
+            "2013": 81000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Health and Human Services", 
+    "children": [
+      {
+        "name": "Centers for Disease Control and Prevention", 
+        "children": [
+          {
+            "value": 76000, 
+            "name": "Toxic Substances and Environmental Public Health, Agency for Toxic Substances and Disease Registry", 
+            "2013": 77000
+          }, 
+          {
+            "value": 267000, 
+            "name": "World Trade Center Health Program Fund", 
+            "2013": 257000
+          }, 
+          {
+            "value": 272000, 
+            "name": "CDC-Wide Activities and Program Support", 
+            "2013": 183000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Management", 
+        "children": [
+          {
+            "value": 1290000, 
+            "name": "Public Health and Social Services Emergency Fund", 
+            "2013": 767000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Pregnancy Assistance Fund", 
+            "2013": 25000
+          }, 
+          {
+            "value": 21000, 
+            "name": "Office of the National Coordinator for Health Information Technology", 
+            "2013": 17000
+          }, 
+          {
+            "value": 42000, 
+            "name": "Office for Civil Rights", 
+            "2013": 41000
+          }, 
+          {
+            "value": 301000, 
+            "name": "General Departmental Management", 
+            "2013": 477000
+          }
+        ]
+      }, 
+      {
+        "name": "Health Resources and Services Administration", 
+        "children": [
+          {
+            "value": 400000, 
+            "name": "Maternal, Infant, and Early Childhood Home Visiting Programs", 
+            "2013": 400000
+          }, 
+          {
+            "value": 540000, 
+            "name": "Health Resources and Services", 
+            "2013": 737000
+          }, 
+          {
+            "value": 19000, 
+            "name": "Vaccine Injury Compensation Program Trust Fund", 
+            "2013": 19000
+          }
+        ]
+      }, 
+      {
+        "name": "Program Support Center", 
+        "children": [
+          {
+            "value": 26000, 
+            "name": "HHS Accrual Contribution to the Uniformed Services Retiree Health Care Fund", 
+            "2013": 29000
+          }, 
+          {
+            "value": 550000, 
+            "name": "Retirement Pay and Medical Benefits for Commissioned Officers", 
+            "2013": 522000
+          }, 
+          {
+            "value": 91000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 91000
+          }
+        ]
+      }, 
+      {
+        "name": "Substance Abuse and Mental Health Services Administration", 
+        "children": [
+          {
+            "value": 3348000, 
+            "name": "Susbstance Abuse and Mental Health Services Administration", 
+            "2013": 3368000
+          }
+        ]
+      }, 
+      {
+        "name": "Indian Health Service", 
+        "children": [
+          {
+            "value": 150000, 
+            "name": "Indian Health Services", 
+            "2013": 150000
+          }, 
+          {
+            "value": 8000, 
+            "name": "Indian Health Facilities", 
+            "2013": 8000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of the Inspector General", 
+        "children": [
+          {
+            "value": 69000, 
+            "name": "Office of the Inspector General", 
+            "2013": 55000
+          }
+        ]
+      }, 
+      {
+        "name": "National Institutes of Health", 
+        "children": [
+          {
+            "value": 167000, 
+            "name": "National Institutes of Health", 
+            "2013": 167000
+          }
+        ]
+      }, 
+      {
+        "name": "Administration for Children and Families", 
+        "children": [
+          {
+            "value": 7011000, 
+            "name": "Payments for Foster Care and Permanency", 
+            "2013": 6921000
+          }, 
+          {
+            "value": 3417000, 
+            "name": "Child Care Entitlement to States", 
+            "2013": 2917000
+          }, 
+          {
+            "value": 1785000, 
+            "name": "Social Services Block Grant", 
+            "2013": 2285000
+          }, 
+          {
+            "value": 3020000, 
+            "name": "Low Income Home Energy Assistance", 
+            "2013": 3493000
+          }, 
+          {
+            "value": 4075000, 
+            "name": "Payments to States for Child Support Enforcement and Family Support Programs", 
+            "2013": 4004000
+          }, 
+          {
+            "value": 1123000, 
+            "name": "Refugee and Entrant Assistance", 
+            "2013": 900000
+          }, 
+          {
+            "value": 63000, 
+            "name": "Supporting Healthy Families and Adolescent Development", 
+            "2013": 63000
+          }, 
+          {
+            "value": 293000, 
+            "name": "Contingency Fund", 
+            "2013": 612000
+          }, 
+          {
+            "value": 17058000, 
+            "name": "Temporary Assistance for Needy Families", 
+            "2013": 16739000
+          }, 
+          {
+            "value": 52000, 
+            "name": "Children's Research and Technical Assistance", 
+            "2013": 52000
+          }, 
+          {
+            "value": 2478000, 
+            "name": "Payments to States for the Child Care and Development Block Grant", 
+            "2013": 2292000
+          }, 
+          {
+            "value": 11083000, 
+            "name": "Children and Families Services Programs", 
+            "2013": 10069000
+          }
+        ]
+      }, 
+      {
+        "name": "Food and Drug Administration", 
+        "children": [
+          {
+            "value": 2000, 
+            "name": "Salaries and Expenses", 
+            "2013": 2000
+          }
+        ]
+      }, 
+      {
+        "name": "Centers for Medicare and Medicaid Services", 
+        "children": [
+          {
+            "value": 277528000, 
+            "name": "Payments to Health Care Trust Funds", 
+            "2013": 249957000
+          }, 
+          {
+            "value": 328000, 
+            "name": "Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund", 
+            "2013": 361000
+          }, 
+          {
+            "value": 3954000, 
+            "name": "Federal Hospital Insurance Trust Fund", 
+            "2013": 2567000
+          }, 
+          {
+            "value": 284052000, 
+            "name": "Grants to States for Medicaid", 
+            "2013": 269384000
+          }, 
+          {
+            "value": 50000, 
+            "name": "Program Management", 
+            "2013": 50000
+          }, 
+          {
+            "value": 19147000, 
+            "name": "Children's Health Insurance Fund", 
+            "2013": 17451000
+          }, 
+          {
+            "value": 4000, 
+            "name": "Child Enrollment Contingency Fund", 
+            "2013": 3000
+          }, 
+          {
+            "value": 532000, 
+            "name": "State Grants and Demonstrations", 
+            "2013": 530000
+          }, 
+          {
+            "value": 3042000, 
+            "name": "Federal Supplementary Medical Insurance Trust Fund", 
+            "2013": 3144000
+          }, 
+          {
+            "value": 311000, 
+            "name": "Health Care Fraud and Abuse Control Account", 
+            "2013": 312000
+          }, 
+          {
+            "value": 1343000, 
+            "name": "Affordable Insurance Exchange Grants", 
+            "2013": 2751000
+          }
+        ]
+      }, 
+      {
+        "name": "Administration for Community Living", 
+        "children": [
+          {
+            "value": 35000, 
+            "name": "Aging and Disability Services Programs", 
+            "2013": 10000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Social Security Administration", 
+    "children": [
+      {
+        "name": "Social Security Administration", 
+        "children": [
+          {
+            "value": 29000, 
+            "name": "Office of the Inspector General", 
+            "2013": 29000
+          }, 
+          {
+            "value": 121000, 
+            "name": "FDI, General Fund Payments for Payroll Tax Holiday (PL 111-312)", 
+            "2013": -4612000
+          }, 
+          {
+            "value": 716000, 
+            "name": "FOASI, General Fund Payments for Payroll Tax Holiday (PL 111-312)", 
+            "2013": -27169000
+          }, 
+          {
+            "value": 2535000, 
+            "name": "Federal Disability Insurance Trust Fund", 
+            "2013": 2952000
+          }, 
+          {
+            "value": 28625000, 
+            "name": "Payments to Social Security Trust Funds", 
+            "2013": 56076000
+          }, 
+          {
+            "value": 2664000, 
+            "name": "Federal Old-age and Survivors Insurance Trust Fund", 
+            "2013": 2746000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Special Benefits for Certain World War II Veterans", 
+            "2013": 1000
+          }, 
+          {
+            "value": 173000, 
+            "name": "State Supplemental Fees", 
+            "2013": 162000
+          }, 
+          {
+            "value": 3860000, 
+            "name": "Supplemental Security Income Program", 
+            "2013": 3633000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Agriculture", 
+    "children": [
+      {
+        "name": "Office of the General Counsel", 
+        "children": [
+          {
+            "value": 45000, 
+            "name": "Office of the General Counsel", 
+            "2013": 40000
+          }
+        ]
+      }, 
+      {
+        "name": "Natural Resources Conservation Service", 
+        "children": [
+          {
+            "value": 1503000, 
+            "name": "Conservation Operations", 
+            "2013": 833000
+          }, 
+          {
+            "value": 165000, 
+            "name": "Watershed Rehabilitation Program", 
+            "2013": 165000
+          }, 
+          {
+            "value": 3601000, 
+            "name": "Farm Security and Rural Investment Programs", 
+            "2013": 3919000
+          }
+        ]
+      }, 
+      {
+        "name": "Economic Research Service", 
+        "children": [
+          {
+            "value": 79000, 
+            "name": "Economic Research Service", 
+            "2013": 78000
+          }
+        ]
+      }, 
+      {
+        "name": "Forest Service", 
+        "children": [
+          {
+            "value": 2335000, 
+            "name": "Wildland Fire Management", 
+            "2013": 2333000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Stewardship Contracting Product Sales", 
+            "2013": 10000
+          }, 
+          {
+            "value": 1557000, 
+            "name": "National Forest System", 
+            "2013": 1614000
+          }, 
+          {
+            "value": 68000, 
+            "name": "Forest Service Permanent Appropriations", 
+            "2013": 68000
+          }, 
+          {
+            "value": 240000, 
+            "name": "State and Private Forestry", 
+            "2013": 346000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Range Betterment Fund", 
+            "2013": 3000
+          }, 
+          {
+            "value": 329000, 
+            "name": "Capital Improvement and Maintenance", 
+            "2013": 430000
+          }, 
+          {
+            "value": 337000, 
+            "name": "Forest and Rangeland Research", 
+            "2013": 326000
+          }, 
+          {
+            "value": 56000, 
+            "name": "Land Acquisition", 
+            "2013": 45000
+          }, 
+          {
+            "value": 107000, 
+            "name": "Forest Service Trust Funds", 
+            "2013": 263000
+          }
+        ]
+      }, 
+      {
+        "name": "Risk Management Agency", 
+        "children": [
+          {
+            "value": 8991000, 
+            "name": "Federal Crop Insurance Corporation Fund", 
+            "2013": 10220000
+          }, 
+          {
+            "value": 71000, 
+            "name": "Administrative and Operating Expenses", 
+            "2013": 75000
+          }
+        ]
+      }, 
+      {
+        "name": "Rural Development", 
+        "children": [
+          {
+            "value": 204000, 
+            "name": "Salaries and Expenses", 
+            "2013": 183000
+          }
+        ]
+      }, 
+      {
+        "name": "Grain Inspection, Packers and Stockyards Administration", 
+        "children": [
+          {
+            "value": 41000, 
+            "name": "Salaries and Expenses", 
+            "2013": 38000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Chief Economist", 
+        "children": [
+          {
+            "value": 13000, 
+            "name": "Office of the Chief Economist", 
+            "2013": 11000
+          }
+        ]
+      }, 
+      {
+        "name": "Agricultural Marketing Service", 
+        "children": [
+          {
+            "value": 1107000, 
+            "name": "Funds for Strengthening Markets, Income, and Supply (section 32)", 
+            "2013": 1091000
+          }, 
+          {
+            "value": 11000, 
+            "name": "Perishable Agricultural Commodities Act Fund", 
+            "2013": 11000
+          }, 
+          {
+            "value": 83000, 
+            "name": "Marketing Services", 
+            "2013": 83000
+          }, 
+          {
+            "value": 157000, 
+            "name": "Expenses and Refunds, Inspection and Grading of Farm Products", 
+            "2013": 150000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Payments to States and Possessions", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Civil Rights", 
+        "children": [
+          {
+            "value": 22000, 
+            "name": "Office of Civil Rights", 
+            "2013": 21000
+          }
+        ]
+      }, 
+      {
+        "name": "Food Safety and Inspection Service", 
+        "children": [
+          {
+            "value": 1008000, 
+            "name": "Salaries and Expenses", 
+            "2013": 1011000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Expenses and Refunds, Inspection and Grading of Farm Products", 
+            "2013": 10000
+          }
+        ]
+      }, 
+      {
+        "name": "Food and Nutrition Service", 
+        "children": [
+          {
+            "value": 20617000, 
+            "name": "Child Nutrition Programs", 
+            "2013": 19702000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)", 
+            "2013": 1000
+          }, 
+          {
+            "value": 21000, 
+            "name": "Commodity Assistance Program", 
+            "2013": 21000
+          }, 
+          {
+            "value": 147000, 
+            "name": "Nutrition Programs Administration", 
+            "2013": 139000
+          }, 
+          {
+            "value": 7000, 
+            "name": "Supplemental Nutrition Assistance Program", 
+            "2013": -10000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Inspector General", 
+        "children": [
+          {
+            "value": 90000, 
+            "name": "Office of Inspector General", 
+            "2013": 86000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Management", 
+        "children": [
+          {
+            "value": 4000, 
+            "name": "Hazardous Materials Management", 
+            "2013": 4000
+          }, 
+          {
+            "value": 32000, 
+            "name": "Departmental Administration", 
+            "2013": 31000
+          }, 
+          {
+            "value": 233000, 
+            "name": "Agriculture Buildings and Facilities and Rental Payments", 
+            "2013": 232000
+          }
+        ]
+      }, 
+      {
+        "name": "Rural Housing Service", 
+        "children": [
+          {
+            "value": 33000, 
+            "name": "Multifamily Housing Revitalization Program Account", 
+            "2013": 13000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Mutual and Self-help Housing Grants", 
+            "2013": 30000
+          }, 
+          {
+            "value": 450000, 
+            "name": "Rural Housing Insurance Fund Program Account", 
+            "2013": 514000
+          }, 
+          {
+            "value": 17000, 
+            "name": "Rural Community Facilities Program Account", 
+            "2013": 29000
+          }, 
+          {
+            "value": 1015000, 
+            "name": "Rental Assistance Program", 
+            "2013": 910000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Rural Housing Assistance Grants", 
+            "2013": 33000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Communications", 
+        "children": [
+          {
+            "value": 8000, 
+            "name": "Office of Communications", 
+            "2013": 8000
+          }
+        ]
+      }, 
+      {
+        "name": "Rural Utilities Service", 
+        "children": [
+          {
+            "value": 35000, 
+            "name": "Rural Electrification and Telecommunications Loans Program Account", 
+            "2013": 38000
+          }, 
+          {
+            "value": 44000, 
+            "name": "Distance Learning, Telemedicine, and Broadband Program", 
+            "2013": 38000
+          }, 
+          {
+            "value": 304000, 
+            "name": "Rural Water and Waste Disposal Program Account", 
+            "2013": 506000
+          }
+        ]
+      }, 
+      {
+        "name": "Foreign Agricultural Service", 
+        "children": [
+          {
+            "value": 2000, 
+            "name": "Salaries and Expenses", 
+            "2013": 2000
+          }, 
+          {
+            "value": 185000, 
+            "name": "McGovern-Dole International Food for Education and Child Nutrition Program", 
+            "2013": 185000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Public Law 480 Title I Direct Credit and Food for Progress Program Account", 
+            "2013": 3000
+          }
+        ]
+      }, 
+      {
+        "name": "Rural Business_Cooperative Service", 
+        "children": [
+          {
+            "value": 52000, 
+            "name": "Rural Business Program Account", 
+            "2013": 75000
+          }, 
+          {
+            "value": 17000, 
+            "name": "Rural Cooperative Development Grants", 
+            "2013": 25000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Rural Microenterprise Investment Program Account", 
+            "2013": -3000
+          }, 
+          {
+            "value": 9000, 
+            "name": "Rural Development Loan Fund Program Account", 
+            "2013": 11000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Energy Assistance Payments", 
+            "2013": 80000
+          }, 
+          {
+            "value": 20000, 
+            "name": "Rural Energy for America Program", 
+            "2013": -38000
+          }
+        ]
+      }, 
+      {
+        "name": "Farm Service Agency", 
+        "children": [
+          {
+            "value": 2180000, 
+            "name": "Commodity Credit Corporation Fund", 
+            "2013": 2113000
+          }, 
+          {
+            "value": 1176000, 
+            "name": "Salaries and Expenses", 
+            "2013": 1206000
+          }, 
+          {
+            "value": 4000, 
+            "name": "State Mediation Grants", 
+            "2013": 4000
+          }, 
+          {
+            "value": 960000, 
+            "name": "Tobacco Trust Fund", 
+            "2013": 960000
+          }, 
+          {
+            "value": 406000, 
+            "name": "Agricultural Credit Insurance Fund Program Account", 
+            "2013": 408000
+          }, 
+          {
+            "value": 7000, 
+            "name": "Commodity Credit Corporation Export Loans Program Account", 
+            "2013": 7000
+          }
+        ]
+      }, 
+      {
+        "name": "Animal and Plant Health Inspection Service", 
+        "children": [
+          {
+            "value": 261000, 
+            "name": "Salaries and Expenses", 
+            "2013": 258000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Buildings and Facilities", 
+            "2013": 3000
+          }, 
+          {
+            "value": 9000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 9000
+          }
+        ]
+      }, 
+      {
+        "name": "National Appeals Division", 
+        "children": [
+          {
+            "value": 13000, 
+            "name": "National Appeals Division", 
+            "2013": 13000
+          }
+        ]
+      }, 
+      {
+        "name": "Agricultural Research Service", 
+        "children": [
+          {
+            "value": 1124000, 
+            "name": "Salaries and Expenses", 
+            "2013": 1101000
+          }, 
+          {
+            "value": 24000, 
+            "name": "Miscellaneous Contributed Funds", 
+            "2013": 30000
+          }
+        ]
+      }, 
+      {
+        "name": "National Institute of Food and Agriculture", 
+        "children": [
+          {
+            "value": 806000, 
+            "name": "Research and Education Activities", 
+            "2013": 714000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Extension Activities", 
+            "2013": 5000
+          }, 
+          {
+            "value": 28000, 
+            "name": "Integrated Activities", 
+            "2013": 22000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of the Secretary", 
+        "children": [
+          {
+            "value": 17000, 
+            "name": "Office of the Secretary", 
+            "2013": 16000
+          }
+        ]
+      }, 
+      {
+        "name": "National Agricultural Statistics Service", 
+        "children": [
+          {
+            "value": 160000, 
+            "name": "National Agricultural Statistics Service", 
+            "2013": 160000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "NASA", 
+    "children": [
+      {
+        "name": "NASA", 
+        "children": [
+          {
+            "value": 743000, 
+            "name": "Space Technology", 
+            "2013": 579000
+          }, 
+          {
+            "value": 566000, 
+            "name": "Aeronautics", 
+            "2013": 572000
+          }, 
+          {
+            "value": 5018000, 
+            "name": "Science", 
+            "2013": 5116000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Science, Space, and Technology Education Trust Fund", 
+            "2013": 1000
+          }, 
+          {
+            "value": 3883000, 
+            "name": "Space Operations", 
+            "2013": 4247000
+          }, 
+          {
+            "value": 609000, 
+            "name": "Construction, Environmental Compliance, and Remediation", 
+            "2013": 402000
+          }, 
+          {
+            "value": 3916000, 
+            "name": "Exploration", 
+            "2013": 3790000
+          }, 
+          {
+            "value": 2850000, 
+            "name": "Cross Agency Support", 
+            "2013": 3012000
+          }, 
+          {
+            "value": 94000, 
+            "name": "Education", 
+            "2013": 137000
+          }, 
+          {
+            "value": 37000, 
+            "name": "Office of Inspector General", 
+            "2013": 39000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Transportation", 
+    "children": [
+      {
+        "name": "Saint Lawrence Seaway Development Corporation", 
+        "children": [
+          {
+            "value": 33000, 
+            "name": "Operations and Maintenance", 
+            "2013": 32000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Aviation Administration", 
+        "children": [
+          {
+            "value": 3350000, 
+            "name": "Grants-in-aid for Airports (Airport and Airway Trust Fund)", 
+            "2013": 3350000
+          }, 
+          {
+            "value": 6484000, 
+            "name": "Trust Fund Share of FAA Activities (Airport and Airway Trust Fund)", 
+            "2013": 5092000
+          }, 
+          {
+            "value": 3223000, 
+            "name": "Operations", 
+            "2013": 4621000
+          }, 
+          {
+            "value": 166000, 
+            "name": "Research, Engineering and Development (Airport and Airway Trust Fund)", 
+            "2013": 169000
+          }, 
+          {
+            "value": 2778000, 
+            "name": "Facilities and Equipment (Airport and Airway Trust Fund)", 
+            "2013": 2777000
+          }
+        ]
+      }, 
+      {
+        "name": "Pipeline and Hazardous Materials Safety Administration", 
+        "children": [
+          {
+            "value": 52000, 
+            "name": "Hazardous Materials Safety", 
+            "2013": 42000
+          }, 
+          {
+            "value": 19000, 
+            "name": "Trust Fund Share of Pipeline Safety", 
+            "2013": 19000
+          }, 
+          {
+            "value": 28000, 
+            "name": "Emergency Preparedness Grants", 
+            "2013": 28000
+          }, 
+          {
+            "value": 20000, 
+            "name": "Operational Expenses", 
+            "2013": 20000
+          }, 
+          {
+            "value": 137000, 
+            "name": "Pipeline Safety", 
+            "2013": 92000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Highway Administration", 
+        "children": [
+          {
+            "value": 15152000, 
+            "name": "Payment to the Transportation Trust Fund", 
+            "2013": 6200000
+          }, 
+          {
+            "value": 39695000, 
+            "name": "Federal-aid Highways", 
+            "2013": 39138000
+          }, 
+          {
+            "value": 24000, 
+            "name": "Miscellaneous Trust Funds", 
+            "2013": 24000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Transit Administration", 
+        "children": [
+          {
+            "value": 30000, 
+            "name": "Research and University Research Centers", 
+            "2013": 44000
+          }, 
+          {
+            "value": 9895000, 
+            "name": "Transit Formula Grants", 
+            "2013": 9778000
+          }, 
+          {
+            "value": 110000, 
+            "name": "Administrative Expenses", 
+            "2013": 99000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Public Transportation Emergency Relief Program", 
+            "2013": 10894000
+          }, 
+          {
+            "value": 150000, 
+            "name": "Washington Metropolitan Area Transit Authority", 
+            "2013": 151000
+          }, 
+          {
+            "value": 1981000, 
+            "name": "Capital Investment Grants", 
+            "2013": 1923000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of the Secretary", 
+        "children": [
+          {
+            "value": 6000, 
+            "name": "Cyber Security Initiatives", 
+            "2013": 10000
+          }, 
+          {
+            "value": 116000, 
+            "name": "Essential Air Service and Rural Airport Improvement Fund", 
+            "2013": 50000
+          }, 
+          {
+            "value": 500000, 
+            "name": "National Infrastructure Investments", 
+            "2013": 503000
+          }, 
+          {
+            "value": 113000, 
+            "name": "Salaries and Expenses", 
+            "2013": 103000
+          }, 
+          {
+            "value": 146000, 
+            "name": "Payments to Air Carriers", 
+            "2013": 144000
+          }, 
+          {
+            "value": 7000, 
+            "name": "Transportation Planning, Research, and Development", 
+            "2013": 9000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Minority Business Outreach", 
+            "2013": 3000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Office of Civil Rights", 
+            "2013": 9000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Financial Management Capital", 
+            "2013": 5000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Research and Development", 
+            "2013": 16000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Minority Business Resource Center Program", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "Surface Transportation Board", 
+        "children": [
+          {
+            "value": 30000, 
+            "name": "Salaries and Expenses", 
+            "2013": 28000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Motor Carrier Safety Administration", 
+        "children": [
+          {
+            "value": 259000, 
+            "name": "Motor Carrier Safety Operations and Programs", 
+            "2013": 251000
+          }, 
+          {
+            "value": 313000, 
+            "name": "Motor Carrier Safety Grants", 
+            "2013": 310000
+          }
+        ]
+      }, 
+      {
+        "name": "Federal Railroad Administration", 
+        "children": [
+          {
+            "value": 35000, 
+            "name": "Railroad Research and Development", 
+            "2013": 35000
+          }, 
+          {
+            "value": 185000, 
+            "name": "Safety and Operations", 
+            "2013": 180000
+          }
+        ]
+      }, 
+      {
+        "name": "National Highway Traffic Safety Administration", 
+        "children": [
+          {
+            "value": 562000, 
+            "name": "Highway Traffic Safety Grants", 
+            "2013": 554000
+          }, 
+          {
+            "value": 119000, 
+            "name": "Operations and Research (Transportation Trust Fund)", 
+            "2013": 116000
+          }, 
+          {
+            "value": 148000, 
+            "name": "Operations and Research", 
+            "2013": 141000
+          }
+        ]
+      }, 
+      {
+        "name": "Office of Inspector General", 
+        "children": [
+          {
+            "value": 86000, 
+            "name": "Salaries and Expenses", 
+            "2013": 86000
+          }
+        ]
+      }, 
+      {
+        "name": "Maritime Administration", 
+        "children": [
+          {
+            "value": 1000, 
+            "name": "Miscellaneous Trust Funds, Maritime Administration", 
+            "2013": 1000
+          }, 
+          {
+            "value": 152000, 
+            "name": "Operations and Training", 
+            "2013": 157000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Maritime Guaranteed Loan (title XI) Program Account", 
+            "2013": 4000
+          }, 
+          {
+            "value": 208000, 
+            "name": "Maritime Security Program", 
+            "2013": 175000
+          }, 
+          {
+            "value": 50000, 
+            "name": "Ocean Freight Differential", 
+            "2013": 102000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Ship Disposal", 
+            "2013": 6000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Office of Personnel Management", 
+    "children": [
+      {
+        "name": "Office of Personnel Management", 
+        "children": [
+          {
+            "value": 33140000, 
+            "name": "Payment to Civil Service Retirement and Disability Fund", 
+            "2013": 32374000
+          }, 
+          {
+            "value": 11163000, 
+            "name": "Government Payment for Annuitants, Employees Health Benefits", 
+            "2013": 10698000
+          }, 
+          {
+            "value": 96000, 
+            "name": "Salaries and Expenses", 
+            "2013": 99000
+          }, 
+          {
+            "value": 38000, 
+            "name": "Employees and Retired Employees Health Benefits Funds", 
+            "2013": 41000
+          }, 
+          {
+            "value": 98000, 
+            "name": "Civil Service Retirement and Disability Fund", 
+            "2013": 91000
+          }, 
+          {
+            "value": 3199000, 
+            "name": "Postal Service Retiree Health Benefits Fund", 
+            "2013": 2912000
+          }, 
+          {
+            "value": 6000, 
+            "name": "Employees Life Insurance Fund", 
+            "2013": 5000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Government Payment for Annuitants, Employee Life Insurance", 
+            "2013": 46000
+          }, 
+          {
+            "value": 5000, 
+            "name": "Office of Inspector General", 
+            "2013": 3000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Other Defense Civil Programs", 
+    "children": [
+      {
+        "name": "American Battle Monuments Commission", 
+        "children": [
+          {
+            "value": 72000, 
+            "name": "Salaries and Expenses", 
+            "2013": 77000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Contributions", 
+            "2013": 1000
+          }
+        ]
+      }, 
+      {
+        "name": "Military Retirement", 
+        "children": [
+          {
+            "value": 55572000, 
+            "name": "Military Retirement Fund", 
+            "2013": 53851000
+          }, 
+          {
+            "value": 70272000, 
+            "name": "Payment to Military Retirement Fund", 
+            "2013": 67733000
+          }
+        ]
+      }, 
+      {
+        "name": "Forest and Wildlife Conservation, Military Reservations", 
+        "children": [
+          {
+            "value": 3000, 
+            "name": "Wildlife Conservation", 
+            "2013": 3000
+          }
+        ]
+      }, 
+      {
+        "name": "Armed Forces Retirement Home", 
+        "children": [
+          {
+            "value": 68000, 
+            "name": "Armed Forces Retirement Home", 
+            "2013": 84000
+          }
+        ]
+      }, 
+      {
+        "name": "Educational Benefits", 
+        "children": [
+          {
+            "value": 303000, 
+            "name": "Education Benefits Fund", 
+            "2013": 307000
+          }
+        ]
+      }, 
+      {
+        "name": "Retiree Health Care", 
+        "children": [
+          {
+            "value": 9499000, 
+            "name": "Defense Medicare-Eligible Retiree Health Care Fund", 
+            "2013": 9283000
+          }, 
+          {
+            "value": 3656000, 
+            "name": "Payment to Defense Medicare-Eligible Retiree Health Care Fund", 
+            "2013": 6142000
+          }
+        ]
+      }, 
+      {
+        "name": "Cemeterial Expenses", 
+        "children": [
+          {
+            "value": 46000, 
+            "name": "Salaries and Expenses", 
+            "2013": 46000
+          }
+        ]
+      }, 
+      {
+        "name": "Selective Service System", 
+        "children": [
+          {
+            "value": 24000, 
+            "name": "Salaries and Expenses", 
+            "2013": 24000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Energy", 
+    "children": [
+      {
+        "name": "National Nuclear Security Administration", 
+        "children": [
+          {
+            "value": 7868000, 
+            "name": "Weapons Activities", 
+            "2013": 7557000
+          }, 
+          {
+            "value": 1246000, 
+            "name": "Naval Reactors", 
+            "2013": 1087000
+          }, 
+          {
+            "value": 398000, 
+            "name": "Office of the Administrator", 
+            "2013": 413000
+          }, 
+          {
+            "value": 2140000, 
+            "name": "Defense Nuclear Nonproliferation", 
+            "2013": 2410000
+          }
+        ]
+      }, 
+      {
+        "name": "Environmental and Other Defense Activities", 
+        "children": [
+          {
+            "value": 5317000, 
+            "name": "Defense Environmental Cleanup", 
+            "2013": 5034000
+          }, 
+          {
+            "value": 749000, 
+            "name": "Other Defense Activities", 
+            "2013": 828000
+          }
+        ]
+      }, 
+      {
+        "name": "Departmental Administration", 
+        "children": [
+          {
+            "value": 118000, 
+            "name": "Departmental Administration", 
+            "2013": 131000
+          }, 
+          {
+            "value": 42000, 
+            "name": "Office of the Inspector General", 
+            "2013": 42000
+          }
+        ]
+      }, 
+      {
+        "name": "Energy Programs", 
+        "children": [
+          {
+            "value": 8000, 
+            "name": "Northeast Home Heating Oil Reserve", 
+            "2013": 10000
+          }, 
+          {
+            "value": 15000, 
+            "name": "Electricity Delivery and Energy Reliability", 
+            "2013": 5000
+          }, 
+          {
+            "value": 213000, 
+            "name": "Non-defense Environmental Cleanup", 
+            "2013": 237000
+          }, 
+          {
+            "value": 189000, 
+            "name": "Strategic Petroleum Reserve", 
+            "2013": 194000
+          }, 
+          {
+            "value": 1104000, 
+            "name": "Energy Efficiency and Renewable Energy", 
+            "2013": 887000
+          }, 
+          {
+            "value": 555000, 
+            "name": "Uranium Enrichment Decontamination and Decommissioning Fund", 
+            "2013": 475000
+          }, 
+          {
+            "value": 5153000, 
+            "name": "Science", 
+            "2013": 4904000
+          }, 
+          {
+            "value": 6000, 
+            "name": "Advanced Technology Vehicles Manufacturing Loan Program Account", 
+            "2013": 6000
+          }, 
+          {
+            "value": 379000, 
+            "name": "Advanced Research Projects Agency", 
+            "2013": 277000
+          }, 
+          {
+            "value": 635000, 
+            "name": "Nuclear Energy", 
+            "2013": 771000
+          }, 
+          {
+            "value": 421000, 
+            "name": "Fossil Energy Research and Development", 
+            "2013": 495000
+          }, 
+          {
+            "value": 117000, 
+            "name": "Energy Information Administration", 
+            "2013": 106000
+          }, 
+          {
+            "value": 3000, 
+            "name": "Payments to States under Federal Power Act", 
+            "2013": 3000
+          }, 
+          {
+            "value": 20000, 
+            "name": "Naval Petroleum and Oil Shale Reserves", 
+            "2013": 15000
+          }
+        ]
+      }, 
+      {
+        "name": "Power Marketing Administration", 
+        "children": [
+          {
+            "value": 96000, 
+            "name": "Construction, Rehabilitation, Operation and Maintenance, Western Area Power Administration", 
+            "2013": 98000
+          }, 
+          {
+            "value": 1027000, 
+            "name": "Bonneville Power Administration Fund", 
+            "2013": 945000
+          }, 
+          {
+            "value": 12000, 
+            "name": "Operation and Maintenance, Southwestern Power Administration", 
+            "2013": 12000
+          }, 
+          {
+            "value": 29000, 
+            "name": "Western Area Power Administration, Borrowing Authority, Recovery Act.", 
+            "2013": 29000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Judicial Branch", 
+    "children": [
+      {
+        "name": "Federal Judicial Center", 
+        "children": [
+          {
+            "value": 28000, 
+            "name": "Salaries and Expenses", 
+            "2013": 27000
+          }
+        ]
+      }, 
+      {
+        "name": "Courts of Appeals, District Courts, and other Judicial Services", 
+        "children": [
+          {
+            "value": 353000, 
+            "name": "Salaries and Expenses", 
+            "2013": 338000
+          }, 
+          {
+            "value": 1069000, 
+            "name": "Defender Services", 
+            "2013": 1037000
+          }, 
+          {
+            "value": 54000, 
+            "name": "Fees of Jurors and Commissioners", 
+            "2013": 52000
+          }, 
+          {
+            "value": 1000, 
+            "name": "Registry Administration", 
+            "2013": 1000
+          }, 
+          {
+            "value": 524000, 
+            "name": "Court Security", 
+            "2013": 503000
+          }, 
+          {
+            "value": 507000, 
+            "name": "Judiciary Information Technology Fund", 
+            "2013": 442000
+          }, 
+          {
+            "value": 268000, 
+            "name": "Judiciary Filing Fees", 
+            "2013": 256000
+          }
+        ]
+      }, 
+      {
+        "name": "Supreme Court of the United States", 
+        "children": [
+          {
+            "value": 2000, 
+            "name": "Salaries and Expenses", 
+            "2013": 2000
+          }, 
+          {
+            "value": 12000, 
+            "name": "Care of the Building and Grounds", 
+            "2013": 8000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Sentencing Commission", 
+        "children": [
+          {
+            "value": 17000, 
+            "name": "Salaries and Expenses", 
+            "2013": 17000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Court of International Trade", 
+        "children": [
+          {
+            "value": 2000, 
+            "name": "Salaries and Expenses", 
+            "2013": 2000
+          }
+        ]
+      }, 
+      {
+        "name": "Judicial Retirement Funds", 
+        "children": [
+          {
+            "value": 39000, 
+            "name": "Judicial Survivors' Annuities Fund", 
+            "2013": 44000
+          }, 
+          {
+            "value": 117000, 
+            "name": "Judicial Officers' Retirement Fund", 
+            "2013": 107000
+          }, 
+          {
+            "value": 6000, 
+            "name": "United States Court of Federal Claims Judges' Retirement Fund", 
+            "2013": 7000
+          }, 
+          {
+            "value": 127000, 
+            "name": "Payment to Judiciary Trust Funds", 
+            "2013": 125000
+          }
+        ]
+      }, 
+      {
+        "name": "Administrative Office of the United States Courts", 
+        "children": [
+          {
+            "value": 85000, 
+            "name": "Salaries and Expenses", 
+            "2013": 83000
+          }
+        ]
+      }, 
+      {
+        "name": "United States Court of Appeals for the Federal Circuit", 
+        "children": [
+          {
+            "value": 3000, 
+            "name": "Salaries and Expenses", 
+            "2013": 3000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Defense--Military Programs", 
+    "children": [
+      {
+        "name": "Family Housing", 
+        "children": [
+          {
+            "value": 389000, 
+            "name": "Family Housing Operation and Maintenance, Air Force", 
+            "2013": 432000
+          }, 
+          {
+            "value": 390000, 
+            "name": "Family Housing Operation and Maintenance, Navy and Marine Corps", 
+            "2013": 370000
+          }, 
+          {
+            "value": 44000, 
+            "name": "Family Housing Construction, Army", 
+            "2013": 178000
+          }, 
+          {
+            "value": 76000, 
+            "name": "Family Housing Construction, Air Force", 
+            "2013": 60000
+          }, 
+          {
+            "value": 513000, 
+            "name": "Family Housing Operation and Maintenance, Army", 
+            "2013": 497000
+          }, 
+          {
+            "value": 56000, 
+            "name": "Family Housing Operation and Maintenance, Defense-Wide", 
+            "2013": 51000
+          }, 
+          {
+            "value": 2000, 
+            "name": "Defense Family Housing Improvement Fund", 
+            "2013": 2000
+          }, 
+          {
+            "value": 73000, 
+            "name": "Family Housing Construction, Navy and Marine Corps", 
+            "2013": 102000
+          }
+        ]
+      }, 
+      {
+        "name": "Trust Funds", 
+        "children": [
+          {
+            "value": 99000, 
+            "name": "Voluntary Separation Incentive Fund", 
+            "2013": 106000
+          }, 
+          {
+            "value": 26000, 
+            "name": "Other DOD Trust Funds", 
+            "2013": 26000
+          }, 
+          {
+            "value": 133000, 
+            "name": "Host Nation Support Fund for Relocation", 
+            "2013": 296000
+          }, 
+          {
+            "value": 44000, 
+            "name": "Foreign National Employees Separation Pay", 
+            "2013": 44000
+          }
+        ]
+      }, 
+      {
+        "name": "Military Construction", 
+        "children": [
+          {
+            "value": 123000, 
+            "name": "Chemical Demilitarization Construction, Defense-wide", 
+            "2013": 76000
+          }, 
+          {
+            "value": 1157000, 
+            "name": "Military Construction, Air Force", 
+            "2013": 1193000
+          }, 
+          {
+            "value": 3985000, 
+            "name": "Military Construction, Defense-wide", 
+            "2013": 3282000
+          }, 
+          {
+            "value": 120000, 
+            "name": "Military Construction, Air National Guard", 
+            "2013": 117000
+          }, 
+          {
+            "value": 1120000, 
+            "name": "Military Construction, Army", 
+            "2013": 2921000
+          }, 
+          {
+            "value": 1700000, 
+            "name": "Military Construction, Navy and Marine Corps", 
+            "2013": 2079000
+          }, 
+          {
+            "value": 321000, 
+            "name": "Military Construction, Army National Guard", 
+            "2013": 803000
+          }, 
+          {
+            "value": 174000, 
+            "name": "Military Construction, Army Reserve", 
+            "2013": 282000
+          }, 
+          {
+            "value": 33000, 
+            "name": "Military Construction, Navy Reserve", 
+            "2013": 26000
+          }, 
+          {
+            "value": 46000, 
+            "name": "Military Construction, Air Force Reserve", 
+            "2013": 34000
+          }, 
+          {
+            "value": 240000, 
+            "name": "North Atlantic Treaty Organization Security Investment Program", 
+            "2013": 249000
+          }
+        ]
+      }, 
+      {
+        "name": "Operation and Maintenance", 
+        "children": [
+          {
+            "value": 312000, 
+            "name": "Office of the Inspector General", 
+            "2013": 360000
+          }, 
+          {
+            "value": 263000, 
+            "name": "Operation and Maintenance, Marine Corps Reserve", 
+            "2013": 299000
+          }, 
+          {
+            "value": 237000, 
+            "name": "Environmental Restoration, Formerly Used Defense Sites", 
+            "2013": 328000
+          }, 
+          {
+            "value": 35073000, 
+            "name": "Operation and Maintenance, Army", 
+            "2013": 59337000
+          }, 
+          {
+            "value": 1198000, 
+            "name": "Operation and Maintenance, Navy Reserve", 
+            "2013": 1369000
+          }, 
+          {
+            "value": 14000, 
+            "name": "United States Court of Appeals for the Armed Forces", 
+            "2013": 14000
+          }, 
+          {
+            "value": 6255000, 
+            "name": "Operation and Maintenance, Marine Corps", 
+            "2013": 9643000
+          }, 
+          {
+            "value": 33040000, 
+            "name": "Defense Health Program", 
+            "2013": 33663000
+          }, 
+          {
+            "value": 30000, 
+            "name": "Lease of Defense Real Property", 
+            "2013": 29000
+          }, 
+          {
+            "value": 812000, 
+            "name": "Allied Contributions and Cooperation Account", 
+            "2013": 798000
+          }, 
+          {
+            "value": 32997000, 
+            "name": "Operation and Maintenance, Defense-wide", 
+            "2013": 38457000
+          }, 
+          {
+            "value": 110000, 
+            "name": "Overseas Humanitarian, Disaster, and Civic Aid", 
+            "2013": 108000
+          }, 
+          {
+            "value": 37271000, 
+            "name": "Operation and Maintenance, Air Force", 
+            "2013": 44442000
+          }, 
+          {
+            "value": 3164000, 
+            "name": "Operation and Maintenance, Air Force Reserve", 
+            "2013": 3415000
+          }, 
+          {
+            "value": 39945000, 
+            "name": "Operation and Maintenance, Navy", 
+            "2013": 44275000
+          }, 
+          {
+            "value": 7054000, 
+            "name": "Operation and Maintenance, Army National Guard", 
+            "2013": 7353000
+          }, 
+          {
+            "value": 939000, 
+            "name": "Drug Interdiction and Counter-Drug Activities", 
+            "2013": 1686000
+          }, 
+          {
+            "value": 1065000, 
+            "name": "The Defense Environmental Restoration Accounts", 
+            "2013": 1198000
+          }, 
+          {
+            "value": 10000, 
+            "name": "Disposal of Defense Real Property", 
+            "2013": 14000
+          }, 
+          {
+            "value": 6566000, 
+            "name": "Operation and Maintenance, Air National Guard", 
+            "2013": 6162000
+          }, 
+          {
+            "value": 256000, 
+            "name": "Defense Acquisition Workforce Development Fund", 
+            "2013": 106000
+          }, 
+          {
+            "value": 3095000, 
+            "name": "Operation and Maintenance, Army Reserve", 
+            "2013": 3245000
+          }, 
+          {
+            "value": 528000, 
+            "name": "Cooperative Threat Reduction Account", 
+            "2013": 511000
+          }
+        ]
+      }, 
+      {
+        "name": "Procurement", 
+        "children": [
+          {
+            "value": 1540000, 
+            "name": "Procurement of Ammunition, Army", 
+            "2013": 2239000
+          }, 
+          {
+            "value": 4534000, 
+            "name": "Procurement, Defense-wide", 
+            "2013": 5130000
+          }, 
+          {
+            "value": 5343000, 
+            "name": "Missile Procurement, Air Force", 
+            "2013": 5945000
+          }, 
+          {
+            "value": 11399000, 
+            "name": "Aircraft Procurement, Air Force", 
+            "2013": 13049000
+          }, 
+          {
+            "value": 759000, 
+            "name": "Procurement of Ammunition, Air Force", 
+            "2013": 618000
+          }, 
+          {
+            "value": 1597000, 
+            "name": "Procurement of Weapons and Tracked Combat Vehicles, Army", 
+            "2013": 2080000
+          }, 
+          {
+            "value": 6310000, 
+            "name": "Other Procurement, Navy", 
+            "2013": 6089000
+          }, 
+          {
+            "value": 3122000, 
+            "name": "Weapons Procurement, Navy", 
+            "2013": 3233000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Defense Production Act Purchases", 
+            "2013": 171000
+          }, 
+          {
+            "value": 589000, 
+            "name": "Procurement of Ammunition, Navy and Marine Corps", 
+            "2013": 888000
+          }, 
+          {
+            "value": 1344000, 
+            "name": "Procurement, Marine Corps", 
+            "2013": 2375000
+          }, 
+          {
+            "value": 6465000, 
+            "name": "Other Procurement, Army", 
+            "2013": 9547000
+          }, 
+          {
+            "value": 16761000, 
+            "name": "Other Procurement, Air Force", 
+            "2013": 20271000
+          }, 
+          {
+            "value": 17928000, 
+            "name": "Aircraft Procurement, Navy", 
+            "2013": 17870000
+          }, 
+          {
+            "value": 1057000, 
+            "name": "Chemical Agents and Munitions Destruction, Defense", 
+            "2013": 1564000
+          }, 
+          {
+            "value": 1334000, 
+            "name": "Missile Procurement, Army", 
+            "2013": 1490000
+          }, 
+          {
+            "value": 14078000, 
+            "name": "Shipbuilding and Conversion, Navy", 
+            "2013": 15010000
+          }, 
+          {
+            "value": 5024000, 
+            "name": "Aircraft Procurement, Army", 
+            "2013": 5858000
+          }
+        ]
+      }, 
+      {
+        "name": "Revolving and Management Funds", 
+        "children": [
+          {
+            "value": 731000, 
+            "name": "National Defense Sealift Fund", 
+            "2013": 1107000
+          }, 
+          {
+            "value": 46000, 
+            "name": "Working Capital Fund, Defense-Wide", 
+            "2013": 252000
+          }, 
+          {
+            "value": 62000, 
+            "name": "Working Capital Fund, Air Force", 
+            "2013": 306000
+          }, 
+          {
+            "value": 1413000, 
+            "name": "Working Capital Fund, Defense Commissary Agency", 
+            "2013": 1385000
+          }, 
+          {
+            "value": 25000, 
+            "name": "Working Capital Fund, Army", 
+            "2013": 144000
+          }
+        ]
+      }, 
+      {
+        "name": "Military Personnel", 
+        "children": [
+          {
+            "value": 4565000, 
+            "name": "Reserve Personnel, Army", 
+            "2013": 4473000
+          }, 
+          {
+            "value": 141000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Air Force", 
+            "2013": 175000
+          }, 
+          {
+            "value": 8041000, 
+            "name": "National Guard Personnel, Army", 
+            "2013": 8216000
+          }, 
+          {
+            "value": 27824000, 
+            "name": "Military Personnel, Navy", 
+            "2013": 27842000
+          }, 
+          {
+            "value": 742000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Army", 
+            "2013": 909000
+          }, 
+          {
+            "value": 12905000, 
+            "name": "Military Personnel, Marine Corps", 
+            "2013": 15340000
+          }, 
+          {
+            "value": 135000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Navy", 
+            "2013": 169000
+          }, 
+          {
+            "value": 41038000, 
+            "name": "Military Personnel, Army", 
+            "2013": 52728000
+          }, 
+          {
+            "value": 6970000, 
+            "name": "Concurrent Receipt Accrual Payments to the Military Retirement Fund", 
+            "2013": 6791000
+          }, 
+          {
+            "value": 1892000, 
+            "name": "Reserve Personnel, Navy", 
+            "2013": 1987000
+          }, 
+          {
+            "value": 427000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Army", 
+            "2013": 522000
+          }, 
+          {
+            "value": 1824000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Army", 
+            "2013": 2434000
+          }, 
+          {
+            "value": 28520000, 
+            "name": "Military Personnel, Air Force", 
+            "2013": 29555000
+          }, 
+          {
+            "value": 1218000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Air Force", 
+            "2013": 1442000
+          }, 
+          {
+            "value": 677000, 
+            "name": "Reserve Personnel, Marine Corps", 
+            "2013": 673000
+          }, 
+          {
+            "value": 81000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Reserve Personnel, Marine Corps", 
+            "2013": 98000
+          }, 
+          {
+            "value": 684000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Marine Corps", 
+            "2013": 876000
+          }, 
+          {
+            "value": 1198000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, Navy", 
+            "2013": 1397000
+          }, 
+          {
+            "value": 228000, 
+            "name": "Medicare-Eligible Retiree Health Fund Contribution, National Guard Personnel, Air Force", 
+            "2013": 275000
+          }, 
+          {
+            "value": 1759000, 
+            "name": "Reserve Personnel, Air Force", 
+            "2013": 1749000
+          }, 
+          {
+            "value": 3178000, 
+            "name": "National Guard Personnel, Air Force", 
+            "2013": 3118000
+          }
+        ]
+      }, 
+      {
+        "name": "Research, Development, Test, and Evaluation", 
+        "children": [
+          {
+            "value": 17667000, 
+            "name": "Research, Development, Test and Evaluation, Defense-wide", 
+            "2013": 19391000
+          }, 
+          {
+            "value": 7989000, 
+            "name": "Research, Development, Test and Evaluation, Army", 
+            "2013": 8815000
+          }, 
+          {
+            "value": 25703000, 
+            "name": "Research, Development, Test and Evaluation, Air Force", 
+            "2013": 26695000
+          }, 
+          {
+            "value": 15975000, 
+            "name": "Research, Development, Test and Evaluation, Navy", 
+            "2013": 17908000
+          }, 
+          {
+            "value": 186000, 
+            "name": "Operational Test and Evaluation, Defense", 
+            "2013": 189000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Environmental Protection Agency", 
+    "children": [
+      {
+        "name": "Environmental Protection Agency", 
+        "children": [
+          {
+            "value": 2813000, 
+            "name": "Environmental Programs and Management", 
+            "2013": 2696000
+          }, 
+          {
+            "value": 3154000, 
+            "name": "State and Tribal Assistance Grants", 
+            "2013": 4190000
+          }, 
+          {
+            "value": 11000, 
+            "name": "Pesticide Registration Fund", 
+            "2013": 11000
+          }, 
+          {
+            "value": 19000, 
+            "name": "Hazardous Substance Superfund", 
+            "2013": 14000
+          }, 
+          {
+            "value": 784000, 
+            "name": "Science and Technology", 
+            "2013": 799000
+          }, 
+          {
+            "value": 21000, 
+            "name": "Inland Oil Spill Programs", 
+            "2013": 13000
+          }, 
+          {
+            "value": 54000, 
+            "name": "Buildings and Facilities", 
+            "2013": 37000
+          }, 
+          {
+            "value": 99000, 
+            "name": "Leaking Underground Storage Tank Trust Fund", 
+            "2013": 110000
+          }, 
+          {
+            "value": 1042000, 
+            "name": "Payment to the Hazardous Substance Superfund", 
+            "2013": 1144000
+          }, 
+          {
+            "value": 45000, 
+            "name": "Office of Inspector General", 
+            "2013": 42000
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "name": "Allowances", 
+    "children": [
+      {
+        "name": "Allowances", 
+        "children": [
+          {
+            "value": 10000000, 
+            "name": "Future Disaster Costs", 
+            "2013": 5500000
+          }
+        ]
+      }
+    ]
+  }
+  ]
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Pack</title>
+    <style>
+      .node {
+        cursor: pointer;
+      }
+
+      .node:hover {
+        stroke: #000;
+        stroke-width: 1.5px;
+      }
+
+      .node--root {
+        stroke: #777;
+        stroke-width: 2px;
+      }
+
+      .node--leaf {
+        fill: white;
+      }
+
+      .label {
+        font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+        text-anchor: middle;
+        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      }
+
+      .label,
+      .node--root,
+      .node--leaf {
+        pointer-events: none;
+      }
+    </style>
+  </head>
+
+  <body>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="pack.js"></script>
+    <p>Based on <a href="http://bl.ocks.org/mbostock/7607535">Zoomable Circle Packing</a> by Mike Bostock.</p>
+  </body>
+
+</html>
