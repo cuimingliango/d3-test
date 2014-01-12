@@ -1,6 +1,11 @@
+function treemap(){
+  d3.select("svg")
+       .remove();
+  d3.select(".credit")
+    .remove();
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
-    width = 960,
-    height = 500 - margin.top - margin.bottom,
+    width = 650,
+    height = 650 - margin.top - margin.bottom,
     formatNumber = d3.format(",d"),
     transitioning;
 
@@ -26,6 +31,10 @@ var svg = d3.select("#chart").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
     .style("shape-rendering", "crispEdges");
+
+d3.select("#chart").append("html")
+  .attr("class", "credit")
+  .html('<p>Based on <a href="http://bost.ocks.org/mike/treemap/">Zoomable Treemaps</a> by Mike Bostock.</p>');
 
 var grandparent = svg.append("g")
     .attr("class", "grandparent");
@@ -175,3 +184,4 @@ d3.json("flare.json", function(root) {
         : d.name;
   }
 });
+}

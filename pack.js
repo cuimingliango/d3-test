@@ -1,5 +1,10 @@
+function pack(){
+  d3.select("svg")
+       .remove();
+  d3.select(".credit")
+    .remove();
 var margin = 10,
-    outerDiameter = 960,
+    outerDiameter = 650,
     innerDiameter = outerDiameter - margin - margin;
 
 var x = d3.scale.linear()
@@ -18,11 +23,15 @@ var pack = d3.layout.pack()
     .size([innerDiameter, innerDiameter])
     .value(function(d) { return d.value; })
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", outerDiameter)
     .attr("height", outerDiameter)
   .append("g")
     .attr("transform", "translate(" + margin + "," + margin + ")");
+
+d3.select("#chart").append("html")
+  .attr("class", "credit")
+  .html('<p>Based on <a href="http://bl.ocks.org/mbostock/7607535">Zoomable Circle Packing</a> by Mike Bostock.</p>');
 
 d3.json("flare.json", function(error, root) {
   var focus = root,
@@ -37,6 +46,7 @@ d3.json("flare.json", function(error, root) {
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
       .on("click", function(d) { return zoom(focus == d ? root : d); });
 
+  
   svg.append("g").selectAll("text")
       .data(nodes)
     .enter().append("text")
@@ -44,7 +54,7 @@ d3.json("flare.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
       .style("display", function(d) { return d.parent === root ? null : "none"; })
-      .text(function(d) { return d.name; });
+      .text(function(d) { if (d.r > 30) return d.name; });
 
   d3.select(window)
       .on("click", function() { zoom(root); });
@@ -74,3 +84,4 @@ d3.json("flare.json", function(error, root) {
 });
 
 d3.select(self.frameElement).style("height", outerDiameter + "px");
+}

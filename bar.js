@@ -1,11 +1,16 @@
+function bar(){
+  d3.select("svg")
+       .remove();
+  d3.select(".credit")
+    .remove();
 var margin = {top: 30, right: 120, bottom: 0, left: 200},
-    width = 960 - margin.left - margin.right,
-    height = 700 - margin.top - margin.bottom;
+    width = 650 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
     .range([2, width]);
 
-var barHeight = 20;
+var barHeight = 13;
 
 var color = d3.scale.ordinal()
     .range(["steelblue", "#ccc"]);
@@ -22,7 +27,7 @@ var xAxis = d3.svg.axis()
     .ticks(5)
     .tickFormat(function(d){return d/1000000});
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#chart").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -41,6 +46,10 @@ svg.append("g")
     .attr("class", "y axis")
   .append("line")
     .attr("y1", "100%");
+
+d3.select("#chart").append("html")
+  .attr("class", "credit")
+  .html('<p>Based on <a href="http://bl.ocks.org/mbostock/1283663">Hierarchical Bar Chart</a> by Mike Bostock.</p>');
 
 d3.json("flare.json", function(error, root) {
   partition.nodes(root);
@@ -213,3 +222,5 @@ function stack(i) {
     return tx;
   };
 }
+}
+window.onload=bar();

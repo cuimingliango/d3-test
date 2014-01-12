@@ -3,6 +3,10 @@
   <head>
     <meta charset="utf-8">
     <title>Bar</title>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="bar.js"></script>
+    <script src="pack.js"></script>
+    <script src="treemap.js"></script>
     <style>
     text {
       font: 10px sans-serif;
@@ -24,9 +28,14 @@
     </style>
   </head>
 
-  <body>
-    <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="bar.js"></script>
+  <body >
+    <div class="btn-group" data-toggle="buttons-radio">
+      <button type="button" id="bar" class="btn active switch" onclick="bar()">Bar</button>
+      <button type="button" id="pack" class="btn switch" onclick="pack()">Pack</button>
+      <button type="button" id="treemap" class="btn switch" onclick="treemap()">Treemap</button>
+    </div>
+  <p id="chart" onload="bar()">
+    
     <p>Based on <a href="http://bl.ocks.org/mbostock/1283663">Hierarchical Bar Chart</a> by Mike Bostock.</p>
   </body>
 

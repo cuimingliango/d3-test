@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Pack</title>
+    <title>Index</title>
     <style>
       .node {
         cursor: pointer;
@@ -34,13 +34,25 @@
         pointer-events: none;
       }
 
-          #chart {
-      width: 600px;
-      height: 600px;
-      background: #fff;
+          text {
+      font: 10px sans-serif;
     }
 
-    text {
+    rect.background {
+      fill: white;
+    }
+
+    .axis {
+      shape-rendering: crispEdges;
+    }
+
+    .axis path,
+    .axis line {
+      fill: none;
+      stroke: #000;
+    }
+
+        text {
       pointer-events: none;
     }
 
@@ -79,14 +91,47 @@
     .children:hover rect.child {
       fill: #6e97be;
     }
+
+    h1 {
+      text-align: center;
+    }
+
+    .dek {
+      width: 20%;
+      float:left;
+      padding:10px;
+    }
+
+    .viz {
+      width: 75%;
+      margin: 20px;
+      float:left;
+    }
     </style>
   </head>
 
   <body>
-  <p id="chart">
+  <h1>Visualizing the 2014 federal budget</h1>
+
+  <div class="dek">
+    <p>These 27 agencies represent 99 percent of expenditures in the 2014 federal budget. For ease, I've removed the bottom 1 percent of expenditures, as well as sources of revenue.</p>
+  </div> 
+
+  <div class="viz">
+    <div class="btn-group" data-toggle="buttons-radio">
+      <button type="button" id="bar" class="btn switch" onclick="bar()">Bar</button>
+      <button type="button" id="pack" class="btn switch" onclick="pack()">Pack</button>
+      <button type="button" id="treemap" class="btn switch" onclick="treemap()">Treemap</button>
+    </div>
+  <p id="chart"></p>
+  </div>
     <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="bar.js"></script>
+    <script src="treemap.js"></script>
     <script src="pack.js"></script>
-    <p>Based on <a href="http://bl.ocks.org/mbostock/7607535">Zoomable Circle Packing</a> by Mike Bostock.</p>
+    
+    
+    
   </body>
 
 </html>
