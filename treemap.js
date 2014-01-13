@@ -4,8 +4,8 @@ function treemap(){
   d3.select(".credit")
     .remove();
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
-    width = 650,
-    height = 650 - margin.top - margin.bottom,
+    width = 700,
+    height = 500 - margin.top - margin.bottom,
     formatNumber = d3.format(",d"),
     transitioning;
 

@@ -2,7 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Index</title>
+    <title>2014 Budget</title>
+    <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,300,700' rel='stylesheet' type='text/css'>
     <style>
       .node {
         cursor: pointer;
@@ -23,7 +24,24 @@
       }
 
       .label {
-        font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-family: 'Titillium Web', sans-serif;
+        font-weight:300;
+        font-size: 11px;
+        text-anchor: middle;
+        text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+      }
+
+      .barlabel {
+        font-family: 'Titillium Web', sans-serif;
+        font-weight:300;
+        font-size: 11px;
+        text-anchor: middle;
+      }
+
+      .packlabel {
+        font-family: 'Titillium Web', sans-serif;
+        font-weight:700;
+        font-size: 11px;
         text-anchor: middle;
         text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
       }
@@ -34,8 +52,10 @@
         pointer-events: none;
       }
 
-          text {
-      font: 10px sans-serif;
+    text {
+      font-family: 'Titillium Web', sans-serif;
+      font-size: 11px;
+      font-weight: 400;
     }
 
     rect.background {
@@ -50,10 +70,6 @@
     .axis line {
       fill: none;
       stroke: #000;
-    }
-
-        text {
-      pointer-events: none;
     }
 
     .grandparent text {
@@ -93,7 +109,26 @@
     }
 
     h1 {
+      font-family: 'Titillium Web', sans-serif;
+      font-weight: 700;
       text-align: center;
+    }
+
+    p {
+        font-family: 'Titillium Web', sans-serif;
+        font-weight:300;
+        font-size: 13px;
+    }
+
+    .container{
+      width:100%;
+        float:left;
+        clear:both;
+                border-style: solid;
+        border-width:thin;
+        border-color: #000;
+        border-radius:15px;
+        margin:10px;
     }
 
     .dek {
@@ -105,23 +140,78 @@
     .viz {
       width: 75%;
       margin: 20px;
+      padding: 5px;
+      border-left: solid 1px;
       float:left;
     }
+
+.btn {
+  -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9) );
+  background:-moz-linear-gradient( center top, #f9f9f9 5%, #e9e9e9 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9');
+  background-color:#f9f9f9;
+  -webkit-border-top-left-radius:10px;
+  -moz-border-radius-topleft:10px;
+  border-top-left-radius:10px;
+  -webkit-border-top-right-radius:10px;
+  -moz-border-radius-topright:10px;
+  border-top-right-radius:10px;
+  -webkit-border-bottom-right-radius:10px;
+  -moz-border-radius-bottomright:10px;
+  border-bottom-right-radius:10px;
+  -webkit-border-bottom-left-radius:10px;
+  -moz-border-radius-bottomleft:10px;
+  border-bottom-left-radius:10px;
+  text-indent:0;
+  border:1px solid #dcdcdc;
+  display:inline-block;
+  color:#666666;
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 700;
+  font-size:12px;
+  font-weight:bold;
+  font-style:normal;
+  height:35px;
+  line-height:25px;
+  width:100px;
+  text-decoration:none;
+  text-align:center;
+  text-shadow:1px 1px 0px #ffffff;
+}
+.btn:hover {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9) );
+  background:-moz-linear-gradient( center top, #e9e9e9 5%, #f9f9f9 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9');
+  background-color:#e9e9e9;
+}.btn switch:active {
+  position:relative;
+  top:1px;
+}
+/* This button was generated using CSSButtonGenerator.com */
     </style>
   </head>
 
   <body>
   <h1>Visualizing the 2014 federal budget</h1>
 
+<div class="container">
   <div class="dek">
-    <p>These 27 agencies represent 99 percent of expenditures in the 2014 federal budget. For ease, I've removed the bottom 1 percent of expenditures, as well as sources of revenue.</p>
+    <p>These 27 agencies represent 99 percent of expenditures in the 2014 federal budget. For ease,</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut lacinia tempor orci, in tincidunt lorem bibendum in. Mauris blandit elit vel purus consectetur, eget elementum felis vehicula. Ut in tortor porttitor, consequat urna ac, interdum nibh. Mauris id eleifend risus, non semper lorem. Vivamus sollicitudin est non tortor consequat, porttitor condimentum dolor aliquam.</p>
+
+    <p>Vivamus ornare hendrerit ipsum, sit amet tincidunt massa interdum vel. Quisque semper interdum placerat. In fermentum aliquam purus, nec imperdiet enim eleifend gravida. Morbi est mauris, imperdiet id diam sed, blandit condimentum libero. Vivamus imperdiet sit amet neque ornare dictum. Nunc pulvinar velit eros, vel lobortis lectus porta a.</p>
   </div> 
 
+  
   <div class="viz">
     <div class="btn-group" data-toggle="buttons-radio">
-      <button type="button" id="bar" class="btn switch" onclick="bar()">Bar</button>
-      <button type="button" id="pack" class="btn switch" onclick="pack()">Pack</button>
-      <button type="button" id="treemap" class="btn switch" onclick="treemap()">Treemap</button>
+
+      <button type="button" id="bar" class="btn" onclick="bar()">Bar</button>
+      <button type="button" id="pack" class="btn" onclick="pack()">Pack</button>
+      <button type="button" id="treemap" class="btn" onclick="treemap()">Treemap</button>
     </div>
   <p id="chart"></p>
   </div>
@@ -129,7 +219,7 @@
     <script src="bar.js"></script>
     <script src="treemap.js"></script>
     <script src="pack.js"></script>
-    
+  </div>
     
     
   </body>

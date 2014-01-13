@@ -4,7 +4,7 @@ function pack(){
   d3.select(".credit")
     .remove();
 var margin = 10,
-    outerDiameter = 650,
+    outerDiameter = 500,
     innerDiameter = outerDiameter - margin - margin;
 
 var x = d3.scale.linear()
@@ -13,9 +13,11 @@ var x = d3.scale.linear()
 var y = d3.scale.linear()
     .range([0, innerDiameter]);
 
+
 var color = d3.scale.linear()
     .domain([-1, 5])
     .range(["hsl(200,80%,80%)", "hsl(224,30%,40%)"])
+    //.attr("fill", function() { if (d.value > d.bud13) {return red;} else {return green;} })
     .interpolate(d3.interpolateHcl);
 
 var pack = d3.layout.pack()
@@ -44,15 +46,16 @@ d3.json("flare.json", function(error, root) {
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
       .attr("r", function(d) { return d.r; })
       .style("fill", function(d) { return d.children ? color(d.depth) : null; })
+      //.attr("fill", function() { if (d.value > d.bud13) {return red;} else {return green;} })
       .on("click", function(d) { return zoom(focus == d ? root : d); });
 
   
   svg.append("g").selectAll("text")
       .data(nodes)
     .enter().append("text")
-      .attr("class", "label")
+      .attr("class", "packlabel")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
-      .style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
+      //.style("fill-opacity", function(d) { return d.parent === root ? 1 : 0; })
       .style("display", function(d) { return d.parent === root ? null : "none"; })
       .text(function(d) { if (d.r > 30) return d.name; });
 

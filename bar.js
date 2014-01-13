@@ -4,7 +4,7 @@ function bar(){
   d3.select(".credit")
     .remove();
 var margin = {top: 30, right: 120, bottom: 0, left: 200},
-    width = 650 - margin.left - margin.right,
+    width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 var x = d3.scale.linear()
@@ -13,7 +13,7 @@ var x = d3.scale.linear()
 var barHeight = 13;
 
 var color = d3.scale.ordinal()
-    .range(["steelblue", "#ccc"]);
+    .range(["#6e97be"]);
 
 var duration = 750,
     delay = 25;
@@ -203,7 +203,9 @@ function bar(d) {
       .attr("x", -6)
       .attr("y", barHeight / 2)
       .attr("dy", ".35em")
+      .attr("class", "barlabel")
       .style("text-anchor", "end")
+      .style()
       .text(function(d) { return d.name; });
 
   bar.append("rect")
